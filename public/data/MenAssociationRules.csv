@@ -1,0 +1,488 @@
+Antecedent,Consequent,Target_Product_Line,Relative_ItemSet_Support%,Rule_Confidence%,Rule_Lift
+Écrans solaires + Sacs de couchage,Matériel de premiers soins,Articles de protection,3.73684,74.0,6.53585
+Écrans solaires + Ustensiles de cuisine,Matériel de premiers soins,Articles de protection,4.10526,72.2,6.38243
+Écrans solaires + Lampes,Matériel de premiers soins,Articles de protection,3.94737,70.1,6.19431
+Matériel de premiers soins + Sacs de couchage,Écrans solaires,Articles de protection,3.73684,69.6,6.18014
+Matériel de premiers soins + Tentes,Écrans solaires,Articles de protection,3.47368,68.7,6.10397
+Insectifuges + Ustensiles de cuisine,Matériel de premiers soins,Articles de protection,4.10526,67.8,5.99393
+Sacs à dos et autres contenants + Ustensiles de cuisine + Lampes,Fers droits,Matériel de golf,2.10526,35.7,5.90062
+Sacs à dos et autres contenants + Tentes,Fers droits,Matériel de golf,2.26316,35.5,5.87136
+Sacs à dos et autres contenants + Sacs de couchage + Lampes,Fers droits,Matériel de golf,1.94737,35.2,5.82195
+Matériel de premiers soins + Ustensiles de cuisine,Écrans solaires,Articles de protection,4.10526,65.5,5.81952
+Écrans solaires + Lampes,Insectifuges,Articles de protection,3.94737,70.1,5.79033
+Sacs à dos et autres contenants + Sacs de couchage + Ustensiles de cuisine,Fers droits,Matériel de golf,1.73684,34.7,5.73913
+Insectifuges + Tentes,Écrans solaires,Articles de protection,3.21053,64.2,5.70093
+Matériel de premiers soins + Lampes,Écrans solaires,Articles de protection,3.94737,64.1,5.69135
+Insectifuges + Tentes,Matériel de premiers soins,Articles de protection,3.21053,64.2,5.67442
+Insectifuges + Sacs de couchage,Matériel de premiers soins,Articles de protection,3.42105,63.7,5.63155
+Sacs à dos et autres contenants + Ustensiles de cuisine + Lampes,Bois,Matériel de golf,2.47368,42.0,5.61494
+Matériel de premiers soins + Lampes,Insectifuges,Articles de protection,4.10526,66.7,5.50725
+Matériel de premiers soins + Ustensiles de cuisine,Insectifuges,Articles de protection,4.10526,65.5,5.41469
+Insectifuges + Lampes,Matériel de premiers soins,Articles de protection,4.10526,60.9,5.38517
+Sacs à dos et autres contenants + Sacs de couchage + Ustensiles de cuisine,Fers,Matériel de golf,2.15789,43.2,5.35948
+Sacs à dos et autres contenants + Sacs de couchage + Ustensiles de cuisine,Bois,Matériel de golf,2.0,40.0,5.35211
+Sacs à dos et autres contenants + Ustensiles de cuisine + Lampes,Fers,Matériel de golf,2.52632,42.9,5.32213
+Matériel de premiers soins + Sacs de couchage,Insectifuges,Articles de protection,3.42105,63.7,5.26428
+Matériel de premiers soins + Tentes,Insectifuges,Articles de protection,3.21053,63.5,5.24909
+Insectifuges + Sacs de couchage,Écrans solaires,Articles de protection,3.15789,58.8,5.22265
+Insectifuges + Lampes,Écrans solaires,Articles de protection,3.94737,58.6,5.20225
+Sacs à dos et autres contenants + Sacs de couchage,Fers droits,Matériel de golf,2.26316,31.4,5.18566
+Insectifuges + Ustensiles de cuisine,Écrans solaires,Articles de protection,3.52632,58.3,5.17269
+Écrans solaires + Sacs de couchage,Insectifuges,Articles de protection,3.15789,62.5,5.16304
+Sacs à dos et autres contenants + Ustensiles de cuisine,Fers droits,Matériel de golf,2.31579,31.2,5.15572
+Sacs à dos et autres contenants + Tentes,Fers,Matériel de golf,2.63158,41.3,5.13153
+Écrans solaires + Ustensiles de cuisine,Insectifuges,Articles de protection,3.52632,62.0,5.1248
+Écrans solaires + Lampes,Fers droits,Matériel de golf,1.73684,30.8,5.09549
+Sacs à dos et autres contenants + Sacs de couchage + Lampes,Fers,Matériel de golf,2.26316,41.0,5.08559
+Sacs à dos et autres contenants + Tentes,Accessoires de golf,Matériel de golf,2.42105,38.0,5.05115
+Écrans solaires + Sacs de couchage,Fers droits,Matériel de golf,1.52632,30.2,4.99094
+Sacs à dos et autres contenants + Sacs de couchage + Lampes,Bois,Matériel de golf,2.05263,37.1,4.96982
+Sacs à dos et autres contenants + Ustensiles de cuisine,Fers,Matériel de golf,2.94737,39.7,4.93209
+Sacs à dos et autres contenants + Lampes,Fers droits,Matériel de golf,2.52632,29.6,4.89533
+Matériel de premiers soins + Tentes,Sacs de couchage,Matériel de camping,3.63158,71.9,4.87723
+Tentes + Sacs de couchage + Ustensiles de cuisine,Fers droits,Matériel de golf,1.68421,29.4,4.85042
+Matériel de premiers soins + Tentes,Accessoires de golf,Matériel de golf,1.84211,36.5,4.84411
+Sacs à dos et autres contenants + Ustensiles de cuisine,Bois,Matériel de golf,2.68421,36.2,4.83968
+Sacs à dos et autres contenants + Tentes,Bois,Matériel de golf,2.26316,35.5,4.75498
+Sacs à dos et autres contenants + Ustensiles de cuisine + Lampes,Accessoires de golf,Matériel de golf,2.10526,35.7,4.74525
+Tentes + Ustensiles de cuisine + Lampes,Fers droits,Matériel de golf,1.84211,28.5,4.70131
+Tentes + Sacs de couchage + Lampes,Fers droits,Matériel de golf,1.73684,28.4,4.70015
+Matériel de premiers soins + Sacs de couchage,Tentes,Matériel de camping,3.63158,67.6,4.69085
+Matériel de premiers soins + Lampes,Fers droits,Matériel de golf,1.73684,28.2,4.65998
+Matériel de premiers soins + Tentes,Ustensiles de cuisine,Matériel de camping,4.10526,81.2,4.63589
+Sacs à dos et autres contenants + Sacs de couchage + Ustensiles de cuisine,Accessoires de golf,Matériel de golf,1.73684,34.7,4.61538
+Matériel de premiers soins + Lampes,Bois,Matériel de golf,2.10526,34.2,4.57446
+Sacs à dos et autres contenants + Sacs de couchage + Lampes,Accessoires de golf,Matériel de golf,1.89474,34.3,4.55544
+Écrans solaires + Sacs de couchage,Tentes,Matériel de camping,3.31579,65.6,4.55064
+Matériel de premiers soins + Ustensiles de cuisine,Tentes,Matériel de camping,4.10526,65.5,4.54518
+Tentes + Ustensiles de cuisine + Lampes,Fers,Matériel de golf,2.36842,36.6,4.54328
+Insectifuges + Ustensiles de cuisine,Bois,Matériel de golf,2.05263,33.9,4.53766
+Tentes + Ustensiles de cuisine + Lampes,Accessoires de golf,Matériel de golf,2.21053,34.1,4.53693
+Matériel de premiers soins + Tentes,Fers,Matériel de golf,1.84211,36.5,4.52751
+Écrans solaires + Lampes,Bois,Matériel de golf,1.89474,33.6,4.50178
+Matériel de premiers soins + Tentes,Fers droits,Matériel de golf,1.36842,27.1,4.47464
+Sacs à dos et autres contenants + Lampes,Bois,Matériel de golf,2.84211,33.3,4.46009
+Tentes + Ustensiles de cuisine + Lampes,Bois,Matériel de golf,2.15789,33.3,4.46009
+Sacs de couchage + Ustensiles de cuisine + Lampes,Fers droits,Matériel de golf,1.84211,26.9,4.44816
+Matériel de premiers soins + Lampes,Ustensiles de cuisine,Matériel de camping,4.78947,77.8,4.43777
+Écrans solaires + Ustensiles de cuisine,Fers droits,Matériel de golf,1.52632,26.9,4.43639
+Sacs à dos et autres contenants + Sacs de couchage,Bois,Matériel de golf,2.36842,32.8,4.39498
+Matériel de premiers soins + Ustensiles de cuisine,Bois,Matériel de golf,2.05263,32.8,4.38513
+Tentes + Sacs de couchage + Ustensiles de cuisine,Matériel de premiers soins,Articles de protection,2.84211,49.5,4.37807
+Écrans solaires + Lampes,Sacs de couchage,Matériel de camping,3.63158,64.5,4.37583
+Matériel de premiers soins + Sacs de couchage,Fers droits,Matériel de golf,1.42105,26.5,4.3734
+Insectifuges + Sacs de couchage,Fers droits,Matériel de golf,1.42105,26.5,4.3734
+Insectifuges + Tentes,Bois,Matériel de golf,1.63158,32.6,4.3662
+Sacs à dos et autres contenants + Sacs de couchage,Fers,Matériel de golf,2.52632,35.0,4.35094
+Matériel de premiers soins + Lampes,Sacs de couchage,Matériel de camping,3.94737,64.1,4.34982
+Tentes + Sacs de couchage + Ustensiles de cuisine,Fers,Matériel de golf,2.0,34.9,4.32932
+Écrans solaires + Lampes,Ustensiles de cuisine,Matériel de camping,4.26316,75.7,4.31927
+Insectifuges + Tentes,Fers,Matériel de golf,1.73684,34.7,4.31373
+Tentes + Ustensiles de cuisine + Lampes,Matériel de premiers soins,Articles de protection,3.15789,48.8,4.31083
+Insectifuges + Ustensiles de cuisine,Lampes,Matériel de camping,4.89474,80.9,4.28
+Écrans solaires + Ustensiles de cuisine,Sacs de couchage,Matériel de camping,3.57895,63.0,4.27249
+Matériel de premiers soins + Lampes,Sacs à dos et autres contenants,Matériel de camping,3.36842,54.7,4.25949
+Écrans solaires + Matériel de premiers soins + Insectifuges,Fers droits,Matériel de golf,1.42105,25.7,4.24845
+Sacs à dos et autres contenants + Ustensiles de cuisine,Accessoires de golf,Matériel de golf,2.36842,31.9,4.24044
+Sacs de couchage + Ustensiles de cuisine + Lampes,Bois,Matériel de golf,2.15789,31.5,4.21993
+Écrans solaires + Ustensiles de cuisine,Bois,Matériel de golf,1.78947,31.5,4.21231
+Sacs à dos et autres contenants + Sacs de couchage + Lampes,Matériel de premiers soins,Articles de protection,2.63158,47.6,4.20819
+Tentes + Sacs de couchage,Fers droits,Matériel de golf,2.15789,25.5,4.2074
+Matériel de premiers soins + Sacs de couchage,Sacs à dos et autres contenants,Matériel de camping,2.89474,53.9,4.19881
+Écrans solaires + Insectifuges,Fers droits,Matériel de golf,1.78947,25.4,4.19208
+Matériel de premiers soins + Tentes,Bois,Matériel de golf,1.57895,31.3,4.18134
+Insectifuges + Lampes,Bois,Matériel de golf,2.10526,31.3,4.18134
+Tentes + Sacs de couchage + Lampes,Fers,Matériel de golf,2.05263,33.6,4.17512
+Insectifuges + Tentes,Fers droits,Matériel de golf,1.26316,25.3,4.17391
+Tentes + Sacs de couchage + Ustensiles de cuisine,Bois,Matériel de golf,1.78947,31.2,4.17367
+Matériel de premiers soins + Ustensiles de cuisine,Sacs de couchage,Matériel de camping,3.84211,61.3,4.16267
+Insectifuges + Lampes,Ustensiles de cuisine,Matériel de camping,4.89474,72.7,4.14555
+Tentes + Sacs de couchage + Ustensiles de cuisine,Accessoires de golf,Matériel de golf,1.78947,31.2,4.14448
+Tentes + Sacs de couchage + Lampes,Accessoires de golf,Matériel de golf,1.89474,31.0,4.12346
+Insectifuges + Sacs de couchage,Sacs à dos et autres contenants,Matériel de camping,2.84211,52.9,4.12247
+Tentes + Sacs de couchage + Lampes,Matériel de premiers soins,Articles de protection,2.84211,46.6,4.11387
+Écrans solaires + Ustensiles de cuisine,Tentes,Matériel de camping,3.36842,59.3,4.10922
+Sacs de couchage + Ustensiles de cuisine + Lampes,Fers,Matériel de golf,2.26316,33.1,4.10759
+Écrans solaires + Matériel de premiers soins,Fers droits,Matériel de golf,1.78947,24.8,4.10029
+Matériel de premiers soins + Sacs de couchage,Ustensiles de cuisine,Matériel de camping,3.84211,71.6,4.0835
+Écrans solaires + Lampes,Sacs à dos et autres contenants,Matériel de camping,2.94737,52.3,4.07538
+Insectifuges + Tentes,Sacs de couchage,Matériel de camping,3.0,60.0,4.07143
+Matériel de premiers soins + Sacs de couchage,Bois,Matériel de golf,1.63158,30.4,4.06656
+Insectifuges + Sacs de couchage,Bois,Matériel de golf,1.63158,30.4,4.06656
+Sacs à dos et autres contenants + Lampes,Fers,Matériel de golf,2.78947,32.7,4.06278
+Matériel de premiers soins + Ustensiles de cuisine,Lampes,Matériel de camping,4.78947,76.5,4.04719
+Écrans solaires + Sacs de couchage,Bois,Matériel de golf,1.52632,30.2,4.04196
+Écrans solaires + Sacs de couchage,Ustensiles de cuisine,Matériel de camping,3.57895,70.8,4.04154
+Matériel de premiers soins + Lampes,Fers,Matériel de golf,2.0,32.5,4.03329
+Matériel de premiers soins + Lampes,Tentes,Matériel de camping,3.57895,58.1,4.0302
+Insectifuges + Ustensiles de cuisine,Fers droits,Matériel de golf,1.47368,24.3,4.02268
+Écrans solaires + Lampes,Tentes,Matériel de camping,3.26316,57.9,4.01801
+Matériel de premiers soins + Sacs de couchage,Fers,Matériel de golf,1.73684,32.4,4.01769
+Sacs de couchage + Ustensiles de cuisine + Lampes,Matériel de premiers soins,Articles de protection,3.10526,45.4,4.01073
+Écrans solaires + Sacs de couchage,Fers,Matériel de golf,1.63158,32.3,4.01008
+Sacs à dos et autres contenants + Sacs de couchage + Ustensiles de cuisine,Matériel de premiers soins,Articles de protection,2.26316,45.3,4.0
+Sacs à dos et autres contenants + Sacs de couchage,Accessoires de golf,Matériel de golf,2.15789,29.9,3.97632
+Écrans solaires + Ustensiles de cuisine,Lampes,Matériel de camping,4.26316,75.0,3.96936
+Matériel de premiers soins + Ustensiles de cuisine,Fers,Matériel de golf,2.0,31.9,3.96551
+Insectifuges + Ustensiles de cuisine,Sacs de couchage,Matériel de camping,3.52632,58.3,3.95342
+Sacs à dos et autres contenants + Ustensiles de cuisine + Lampes,Matériel de premiers soins,Articles de protection,2.63158,44.6,3.94518
+Tentes + Ustensiles de cuisine,Matériel de premiers soins,Articles de protection,4.10526,44.6,3.93887
+Écrans solaires + Sacs de couchage,Sacs à dos et autres contenants,Matériel de camping,2.52632,50.0,3.89344
+Matériel de premiers soins + Tentes,Sacs à dos et autres contenants,Matériel de camping,2.52632,50.0,3.89344
+Sacs de couchage + Ustensiles de cuisine + Lampes,Écrans solaires,Articles de protection,3.0,43.8,3.89288
+Matériel de premiers soins + Sacs de couchage,Lampes,Matériel de camping,3.94737,73.5,3.89153
+Matériel de premiers soins + Ustensiles de cuisine,Fers droits,Matériel de golf,1.47368,23.5,3.88747
+Insectifuges + Sacs de couchage,Tentes,Matériel de camping,3.0,55.9,3.87505
+Insectifuges + Lampes,Fers droits,Matériel de golf,1.57895,23.4,3.87228
+Sacs de couchage + Ustensiles de cuisine,Matériel de premiers soins,Articles de protection,3.84211,43.7,3.86297
+Sacs à dos et autres contenants + Sacs de couchage + Ustensiles de cuisine,Matériel de sécurité,Matériel de montagne,0.57895,11.6,3.85965
+Fers droits,Sacs à dos et autres contenants,Matériel de camping,3.0,49.6,3.85959
+Sacs à dos et autres contenants,Fers droits,Matériel de golf,3.0,23.4,3.85959
+Insectifuges + Ustensiles de cuisine,Sacs à dos et autres contenants,Matériel de camping,3.0,49.6,3.85959
+Sacs de couchage + Lampes,Fers droits,Matériel de golf,2.15789,23.3,3.84881
+Tentes + Ustensiles de cuisine,Fers,Matériel de golf,2.84211,30.9,3.83193
+Insectifuges + Lampes,Sacs de couchage,Matériel de camping,3.78947,56.2,3.81696
+Sacs à dos et autres contenants + Sacs de couchage + Lampes,Matériel de sécurité,Matériel de montagne,0.63158,11.4,3.80952
+Tentes + Sacs de couchage + Lampes,Bois,Matériel de golf,1.73684,28.4,3.80646
+Écrans solaires + Sacs de couchage,Lampes,Matériel de camping,3.63158,71.9,3.80397
+Matériel de premiers soins + Ustensiles de cuisine,Accessoires de golf,Matériel de golf,1.78947,28.6,3.7962
+Tentes + Ustensiles de cuisine,Accessoires de golf,Matériel de golf,2.63158,28.6,3.7962
+Matériel de premiers soins + Ustensiles de cuisine,Sacs à dos et autres contenants,Matériel de camping,3.05263,48.7,3.79529
+Insectifuges + Tentes,Lampes,Matériel de camping,3.57895,71.6,3.7883
+Tentes + Sacs de couchage,Matériel de premiers soins,Articles de protection,3.63158,42.9,3.78738
+Sacs de couchage + Ustensiles de cuisine + Lampes,Accessoires de golf,Matériel de golf,1.94737,28.5,3.7816
+Matériel de premiers soins + Sacs de couchage,Accessoires de golf,Matériel de golf,1.52632,28.4,3.77759
+Tentes + Ustensiles de cuisine,Fers droits,Matériel de golf,2.10526,22.9,3.7764
+Insectifuges + Tentes,Accessoires de golf,Matériel de golf,1.42105,28.4,3.77622
+Insectifuges + Sacs de couchage,Fers,Matériel de golf,1.63158,30.4,3.77419
+Tentes + Lampes,Fers droits,Matériel de golf,2.05263,22.8,3.76812
+Sacs de couchage + Lampes,Matériel de premiers soins,Articles de protection,3.94737,42.6,3.76586
+Sacs de couchage + Ustensiles de cuisine,Fers droits,Matériel de golf,2.0,22.8,3.75944
+Sacs à dos et autres contenants + Sacs de couchage + Ustensiles de cuisine,Outils,Matériel de montagne,0.63158,12.6,3.75
+Matériel de premiers soins + Tentes,Lampes,Matériel de camping,3.57895,70.8,3.74884
+Insectifuges + Sacs de couchage,Ustensiles de cuisine,Matériel de camping,3.52632,65.7,3.74787
+Matériel de premiers soins + Lampes,Accessoires de golf,Matériel de golf,1.73684,28.2,3.74753
+Tentes + Sacs de couchage + Ustensiles de cuisine,Écrans solaires,Articles de protection,2.42105,42.2,3.74689
+Insectifuges + Ustensiles de cuisine,Tentes,Matériel de camping,3.26316,53.9,3.7385
+Insectifuges + Sacs de couchage,Lampes,Matériel de camping,3.78947,70.6,3.73587
+Insectifuges + Tentes,Ustensiles de cuisine,Matériel de camping,3.26316,65.3,3.72372
+Sacs à dos et autres contenants + Sacs de couchage + Lampes,Écrans solaires,Articles de protection,2.31579,41.9,3.72052
+Écrans solaires + Lampes,Fers,Matériel de golf,1.68421,29.9,3.71388
+Sacs à dos et autres contenants + Lampes,Accessoires de golf,Matériel de golf,2.36842,27.8,3.69075
+Sacs à dos et autres contenants + Sacs de couchage,Outils,Matériel de montagne,0.89474,12.4,3.68385
+Insectifuges + Lampes,Tentes,Matériel de camping,3.57895,53.1,3.68385
+Sacs à dos et autres contenants + Tentes,Outils,Matériel de montagne,0.78947,12.4,3.68027
+Sacs à dos et autres contenants + Sacs de couchage + Lampes,Outils,Matériel de montagne,0.68421,12.4,3.6756
+Ustensiles de cuisine + Lampes,Matériel de premiers soins,Articles de protection,4.78947,41.6,3.67208
+Insectifuges + Ustensiles de cuisine,Fers,Matériel de golf,1.78947,29.6,3.6715
+Tentes + Lampes,Accessoires de golf,Matériel de golf,2.47368,27.5,3.6519
+Sacs à dos et autres contenants + Ustensiles de cuisine,Matériel de premiers soins,Articles de protection,3.05263,41.1,3.63516
+Tentes + Lampes,Fers,Matériel de golf,2.63158,29.2,3.63108
+Tentes + Sacs de couchage,Fers,Matériel de golf,2.47368,29.2,3.62522
+Sacs de couchage + Ustensiles de cuisine + Lampes,Insectifuges,Articles de protection,3.0,43.8,3.62207
+Sacs de couchage + Ustensiles de cuisine,Écrans solaires,Articles de protection,3.57895,40.7,3.6152
+Sacs à dos et autres contenants + Ustensiles de cuisine + Lampes,Insectifuges,Articles de protection,2.57895,43.7,3.61413
+Insectifuges + Tentes,Sacs à dos et autres contenants,Matériel de camping,2.31579,46.3,3.60656
+Écrans solaires + Ustensiles de cuisine,Sacs à dos et autres contenants,Matériel de camping,2.63158,46.3,3.60504
+Tentes + Lampes,Bois,Matériel de golf,2.42105,26.9,3.59937
+Tentes + Sacs de couchage + Lampes,Écrans solaires,Articles de protection,2.47368,40.5,3.59733
+Insectifuges + Lampes,Sacs à dos et autres contenants,Matériel de camping,3.10526,46.1,3.58927
+Sacs à dos et autres contenants + Tentes,Matériel de sécurité,Matériel de montagne,0.68421,10.7,3.58127
+Sacs à dos et autres contenants + Sacs de couchage + Ustensiles de cuisine,Insectifuges,Articles de protection,2.15789,43.2,3.56522
+Tentes + Ustensiles de cuisine + Lampes,Insectifuges,Articles de protection,2.78947,43.1,3.55956
+Sacs à dos et autres contenants + Sacs de couchage + Ustensiles de cuisine,Écrans solaires,Articles de protection,2.0,40.0,3.5514
+Tentes + Sacs de couchage,Accessoires de golf,Matériel de golf,2.26316,26.7,3.54863
+Sacs à dos et autres contenants + Sacs de couchage,Matériel de premiers soins,Articles de protection,2.89474,40.1,3.54778
+Ustensiles de cuisine + Lampes,Bois,Matériel de golf,3.05263,26.5,3.54364
+Tentes + Sacs de couchage + Ustensiles de cuisine,Outils,Matériel de montagne,0.68421,11.9,3.54071
+Matériel de premiers soins + Insectifuges,Fers droits,Matériel de golf,1.57895,21.4,3.54037
+Sacs à dos et autres contenants + Sacs de couchage + Lampes,Insectifuges,Articles de protection,2.36842,42.9,3.54037
+Tentes + Ustensiles de cuisine + Lampes,Écrans solaires,Articles de protection,2.57895,39.8,3.53697
+Matériel de premiers soins + Insectifuges,Bois,Matériel de golf,1.94737,26.4,3.53622
+Sacs de couchage + Ustensiles de cuisine,Bois,Matériel de golf,2.31579,26.3,3.52534
+Tentes + Ustensiles de cuisine,Bois,Matériel de golf,2.42105,26.3,3.5171
+Écrans solaires + Matériel de premiers soins,Sacs de couchage,Matériel de camping,3.73684,51.8,3.51668
+Tentes + Lampes,Matériel de premiers soins,Articles de protection,3.57895,39.8,3.51421
+Ustensiles de cuisine + Lampes,Insectifuges,Articles de protection,4.89474,42.5,3.50804
+Sacs à dos et autres contenants + Tentes,Matériel de premiers soins,Articles de protection,2.52632,39.7,3.50567
+Sacs de couchage + Ustensiles de cuisine,Fers,Matériel de golf,2.47368,28.1,3.49497
+Sacs à dos et autres contenants + Lampes,Matériel de premiers soins,Articles de protection,3.36842,39.5,3.49124
+Sacs à dos et autres contenants + Ustensiles de cuisine + Lampes,Écrans solaires,Articles de protection,2.31579,39.3,3.48798
+Sacs de couchage + Lampes,Écrans solaires,Articles de protection,3.63158,39.2,3.48078
+Tentes + Sacs de couchage,Écrans solaires,Articles de protection,3.31579,39.1,3.4742
+Ustensiles de cuisine + Lampes,Fers droits,Matériel de golf,2.42105,21.0,3.47032
+Écrans solaires + Ustensiles de cuisine,Fers,Matériel de golf,1.57895,27.8,3.44953
+Sacs de couchage + Lampes,Bois,Matériel de golf,2.36842,25.6,3.42109
+Sacs à dos et autres contenants + Sacs de couchage + Ustensiles de cuisine,Accessoires d'escalade,Matériel de montagne,0.68421,13.7,3.42105
+Bois,Sacs à dos et autres contenants,Matériel de camping,3.26316,43.7,3.39991
+Sacs à dos et autres contenants,Bois,Matériel de golf,3.26316,25.4,3.39991
+Insectifuges + Lampes,Fers,Matériel de golf,1.84211,27.3,3.39563
+Écrans solaires + Insectifuges,Bois,Matériel de golf,1.78947,25.4,3.395
+Sacs de couchage + Lampes,Fers,Matériel de golf,2.52632,27.3,3.38681
+Sacs de couchage + Lampes,Insectifuges,Articles de protection,3.78947,40.9,3.37945
+Écrans solaires + Matériel de premiers soins,Tentes,Matériel de camping,3.47368,48.2,3.34061
+Sacs à dos et autres contenants + Ustensiles de cuisine,Insectifuges,Articles de protection,3.0,40.4,3.3395
+Tentes + Sacs de couchage + Lampes,Outils,Matériel de montagne,0.68421,11.2,3.32705
+Tentes + Sacs de couchage,Bois,Matériel de golf,2.10526,24.8,3.32429
+Fers droits,Écrans solaires,Articles de protection,2.26316,37.4,3.31979
+Écrans solaires,Fers droits,Matériel de golf,2.26316,20.1,3.31979
+Sacs de couchage + Ustensiles de cuisine,Insectifuges,Articles de protection,3.52632,40.1,3.31424
+Écrans solaires + Matériel de premiers soins + Insectifuges,Bois,Matériel de golf,1.36842,24.8,3.31321
+Fers,Sacs à dos et autres contenants,Matériel de camping,3.42105,42.5,3.30815
+Sacs à dos et autres contenants,Fers,Matériel de golf,3.42105,26.6,3.30815
+Écrans solaires + Matériel de premiers soins + Insectifuges,Sacs de couchage,Matériel de camping,2.68421,48.6,3.29592
+Ustensiles de cuisine + Lampes,Fers,Matériel de golf,3.05263,26.5,3.28887
+Tentes + Lampes,Insectifuges,Articles de protection,3.57895,39.8,3.28502
+Ustensiles de cuisine + Lampes,Écrans solaires,Articles de protection,4.26316,37.0,3.28383
+Sacs à dos et autres contenants + Sacs de couchage,Insectifuges,Articles de protection,2.84211,39.4,3.25611
+Écrans solaires + Matériel de premiers soins,Ustensiles de cuisine,Matériel de camping,4.10526,56.9,3.2485
+Tentes + Ustensiles de cuisine,Écrans solaires,Articles de protection,3.36842,36.6,3.247
+Insectifuges + Ustensiles de cuisine,Accessoires de golf,Matériel de golf,1.47368,24.3,3.23503
+Matériel de premiers soins,Sacs de couchage,Matériel de camping,5.36842,47.4,3.21927
+Sacs de couchage,Matériel de premiers soins,Articles de protection,5.36842,36.4,3.21927
+Tentes + Lampes,Écrans solaires,Articles de protection,3.26316,36.3,3.21911
+Sacs de couchage + Ustensiles de cuisine + Lampes,Outils,Matériel de montagne,0.73684,10.8,3.19712
+Sacs de couchage + Ustensiles de cuisine,Accessoires de golf,Matériel de golf,2.10526,24.0,3.18245
+Matériel de premiers soins + Insectifuges,Ustensiles de cuisine,Matériel de camping,4.10526,55.7,3.17889
+Matériel de premiers soins,Ustensiles de cuisine,Matériel de camping,6.26316,55.3,3.15804
+Ustensiles de cuisine,Matériel de premiers soins,Articles de protection,6.26316,35.7,3.15804
+Écrans solaires + Insectifuges,Tentes,Matériel de camping,3.21053,45.5,3.15666
+Sacs à dos et autres contenants + Tentes,Écrans solaires,Articles de protection,2.26316,35.5,3.15517
+Écrans solaires + Insectifuges,Fers,Matériel de golf,1.78947,25.4,3.15091
+Matériel de premiers soins + Insectifuges,Sacs de couchage,Matériel de camping,3.42105,46.4,3.15051
+Sacs à dos et autres contenants + Ustensiles de cuisine,Écrans solaires,Articles de protection,2.63158,35.5,3.14841
+Tentes + Sacs de couchage + Lampes,Insectifuges,Articles de protection,2.31579,37.9,3.13343
+Sacs à dos et autres contenants + Sacs de couchage,Écrans solaires,Articles de protection,2.52632,35.0,3.11072
+Écrans solaires + Lampes,Accessoires de golf,Matériel de golf,1.31579,23.4,3.10437
+Écrans solaires + Matériel de premiers soins + Insectifuges,Tentes,Matériel de camping,2.47368,44.8,3.10393
+Accessoires de golf,Tentes,Matériel de camping,3.36842,44.8,3.10347
+Tentes,Accessoires de golf,Matériel de golf,3.36842,23.4,3.10347
+Écrans solaires + Matériel de premiers soins + Insectifuges,Ustensiles de cuisine,Matériel de camping,3.0,54.3,3.09738
+Matériel de premiers soins,Tentes,Matériel de camping,5.05263,44.7,3.09625
+Tentes,Matériel de premiers soins,Articles de protection,5.05263,35.0,3.09625
+Sacs à dos et autres contenants + Sacs de couchage + Lampes,Accessoires d'escalade,Matériel de montagne,0.68421,12.4,3.09524
+Sacs de couchage + Lampes,Accessoires de golf,Matériel de golf,2.15789,23.3,3.0952
+Écrans solaires + Matériel de premiers soins + Insectifuges,Fers,Matériel de golf,1.36842,24.8,3.07501
+Sacs à dos et autres contenants + Lampes,Écrans solaires,Articles de protection,2.94737,34.6,3.06911
+Écrans solaires + Sacs de couchage,Accessoires de golf,Matériel de golf,1.15789,22.9,3.04487
+Écrans solaires,Sacs de couchage,Matériel de camping,5.05263,44.9,3.04406
+Sacs de couchage,Écrans solaires,Articles de protection,5.05263,34.3,3.04406
+Écrans solaires + Insectifuges,Sacs de couchage,Matériel de camping,3.15789,44.8,3.03838
+Ustensiles de cuisine + Lampes,Accessoires de golf,Matériel de golf,2.63158,22.8,3.0335
+Tentes + Sacs de couchage + Ustensiles de cuisine,Insectifuges,Articles de protection,2.10526,36.7,3.03151
+Écrans solaires + Matériel de premiers soins,Bois,Matériel de golf,1.63158,22.6,3.02765
+Matériel de premiers soins + Insectifuges,Tentes,Matériel de camping,3.21053,43.6,3.02138
+Écrans solaires,Tentes,Matériel de camping,4.89474,43.5,3.01351
+Tentes,Écrans solaires,Articles de protection,4.89474,33.9,3.01351
+Écrans solaires + Matériel de premiers soins,Sacs à dos et autres contenants,Matériel de camping,2.78947,38.7,3.01244
+Insectifuges,Sacs de couchage,Matériel de camping,5.36842,44.3,3.00932
+Sacs de couchage,Insectifuges,Articles de protection,5.36842,36.4,3.00932
+Sacs à dos et autres contenants + Lampes,Insectifuges,Articles de protection,3.10526,36.4,3.00859
+Sacs à dos et autres contenants + Tentes,Insectifuges,Articles de protection,2.31579,36.4,3.00395
+Fers droits,Matériel de premiers soins,Articles de protection,2.05263,33.9,2.99697
+Matériel de premiers soins,Fers droits,Matériel de golf,2.05263,18.1,2.99697
+Accessoires de golf,Sacs à dos et autres contenants,Matériel de camping,2.89474,38.5,2.99496
+Sacs à dos et autres contenants,Accessoires de golf,Matériel de golf,2.89474,22.5,2.99496
+Fers,Tentes,Matériel de camping,3.47368,43.1,2.99127
+Tentes,Fers,Matériel de golf,3.47368,24.1,2.99127
+Écrans solaires + Matériel de premiers soins,Fers,Matériel de golf,1.73684,24.1,2.99127
+Bois,Insectifuges,Articles de protection,2.68421,35.9,2.96693
+Insectifuges,Bois,Matériel de golf,2.68421,22.2,2.96693
+Écrans solaires + Matériel de premiers soins + Insectifuges,Sacs à dos et autres contenants,Matériel de camping,2.10526,38.1,2.96643
+Écrans solaires + Insectifuges,Lampes,Matériel de camping,3.94737,56.0,2.96221
+Fers droits,Tentes,Matériel de camping,2.57895,42.6,2.95462
+Tentes,Fers droits,Matériel de golf,2.57895,17.9,2.95462
+Écrans solaires + Ustensiles de cuisine,Accessoires de golf,Matériel de golf,1.26316,22.2,2.9526
+Fers droits,Sacs de couchage,Matériel de camping,2.63158,43.5,2.95031
+Sacs de couchage,Fers droits,Matériel de golf,2.63158,17.9,2.95031
+Matériel de premiers soins + Insectifuges,Lampes,Matériel de camping,4.10526,55.7,2.94867
+Matériel de premiers soins + Insectifuges,Sacs à dos et autres contenants,Matériel de camping,2.78947,37.9,2.94789
+Insectifuges,Lampes,Matériel de camping,6.73684,55.7,2.94538
+Lampes,Insectifuges,Articles de protection,6.73684,35.7,2.94538
+Matériel de premiers soins + Insectifuges,Fers,Matériel de golf,1.73684,23.6,2.92717
+Tentes + Ustensiles de cuisine,Insectifuges,Articles de protection,3.26316,35.4,2.92671
+Bois,Matériel de premiers soins,Articles de protection,2.47368,33.1,2.92499
+Matériel de premiers soins,Bois,Matériel de golf,2.47368,21.9,2.92499
+Tentes + Sacs de couchage,Insectifuges,Articles de protection,3.0,35.4,2.92466
+Écrans solaires + Matériel de premiers soins + Insectifuges,Lampes,Matériel de camping,3.05263,55.2,2.92346
+Sacs à dos et autres contenants + Sacs de couchage,Accessoires d'escalade,Matériel de montagne,0.84211,11.7,2.91971
+Insectifuges + Lampes,Accessoires de golf,Matériel de golf,1.47368,21.9,2.90647
+Matériel de premiers soins,Sacs à dos et autres contenants,Matériel de camping,4.21053,37.2,2.89745
+Sacs à dos et autres contenants,Matériel de premiers soins,Articles de protection,4.21053,32.8,2.89745
+Écrans solaires + Matériel de premiers soins,Lampes,Matériel de camping,3.94737,54.7,2.89734
+Matériel de premiers soins,Lampes,Matériel de camping,6.15789,54.4,2.88009
+Lampes,Matériel de premiers soins,Articles de protection,6.15789,32.6,2.88009
+Écrans solaires,Ustensiles de cuisine,Matériel de camping,5.68421,50.5,2.87952
+Ustensiles de cuisine,Écrans solaires,Articles de protection,5.68421,32.4,2.87952
+Insectifuges,Tentes,Matériel de camping,5.0,41.3,2.86417
+Tentes,Insectifuges,Articles de protection,5.0,34.7,2.86417
+Insectifuges,Ustensiles de cuisine,Matériel de camping,6.05263,50.0,2.85285
+Ustensiles de cuisine,Insectifuges,Articles de protection,6.05263,34.5,2.85285
+Écrans solaires + Insectifuges,Ustensiles de cuisine,Matériel de camping,3.52632,50.0,2.85285
+Fers droits,Insectifuges,Articles de protection,2.05263,33.9,2.80151
+Insectifuges,Fers droits,Matériel de golf,2.05263,17.0,2.80151
+Bois,Tentes,Matériel de camping,3.0,40.1,2.78349
+Tentes,Bois,Matériel de golf,3.0,20.8,2.78349
+Bois,Ustensiles de cuisine,Matériel de camping,3.63158,48.6,2.77249
+Ustensiles de cuisine,Bois,Matériel de golf,3.63158,20.7,2.77249
+Fers,Ustensiles de cuisine,Matériel de camping,3.89474,48.4,2.75962
+Ustensiles de cuisine,Fers,Matériel de golf,3.89474,22.2,2.75962
+Bois,Écrans solaires,Articles de protection,2.31579,31.0,2.75109
+Écrans solaires,Bois,Matériel de golf,2.31579,20.6,2.75109
+Insectifuges + Sacs de couchage,Accessoires de golf,Matériel de golf,1.10526,20.6,2.7355
+Écrans solaires + Insectifuges,Sacs à dos et autres contenants,Matériel de camping,2.47368,35.1,2.73122
+Fers droits,Ustensiles de cuisine,Matériel de camping,2.89474,47.8,2.72882
+Ustensiles de cuisine,Fers droits,Matériel de golf,2.89474,16.5,2.72882
+Accessoires de golf,Matériel de premiers soins,Articles de protection,2.31579,30.8,2.71914
+Matériel de premiers soins,Accessoires de golf,Matériel de golf,2.31579,20.5,2.71914
+Sacs de couchage + Ustensiles de cuisine + Lampes,Accessoires d'escalade,Matériel de montagne,0.73684,10.8,2.69231
+Bois,Lampes,Matériel de camping,3.78947,50.7,2.68351
+Lampes,Bois,Matériel de golf,3.78947,20.1,2.68351
+Sacs à dos et autres contenants + Ustensiles de cuisine + Lampes,Accessoires d'escalade,Matériel de montagne,0.63158,10.7,2.67857
+Insectifuges,Sacs à dos et autres contenants,Matériel de camping,4.15789,34.3,2.67463
+Sacs à dos et autres contenants,Insectifuges,Articles de protection,4.15789,32.4,2.67463
+Matériel de premiers soins + Insectifuges,Accessoires de golf,Matériel de golf,1.47368,20.0,2.65734
+Écrans solaires,Lampes,Matériel de camping,5.63158,50.0,2.64624
+Lampes,Écrans solaires,Articles de protection,5.63158,29.8,2.64624
+Fers,Insectifuges,Articles de protection,2.57895,32.0,2.64564
+Insectifuges,Fers,Matériel de golf,2.57895,21.3,2.64564
+Fers droits,Lampes,Matériel de camping,3.0,49.6,2.62323
+Lampes,Fers droits,Matériel de golf,3.0,15.9,2.62323
+Écrans solaires + Matériel de premiers soins,Accessoires de golf,Matériel de golf,1.42105,19.7,2.61855
+Fers,Sacs de couchage,Matériel de camping,3.10526,38.6,2.61671
+Sacs de couchage,Fers,Matériel de golf,3.10526,21.1,2.61671
+Fers,Matériel de premiers soins,Articles de protection,2.36842,29.4,2.59918
+Matériel de premiers soins,Fers,Matériel de golf,2.36842,20.9,2.59918
+Bois,Sacs de couchage,Matériel de camping,2.84211,38.0,2.58048
+Sacs de couchage,Bois,Matériel de golf,2.84211,19.3,2.58048
+Accessoires de golf,Ustensiles de cuisine,Matériel de camping,3.36842,44.8,2.5536
+Ustensiles de cuisine,Accessoires de golf,Matériel de golf,3.36842,19.2,2.5536
+Écrans solaires,Sacs à dos et autres contenants,Matériel de camping,3.68421,32.7,2.54711
+Sacs à dos et autres contenants,Écrans solaires,Articles de protection,3.68421,28.7,2.54711
+Tentes + Sacs de couchage + Ustensiles de cuisine,Accessoires d'escalade,Matériel de montagne,0.57895,10.1,2.52294
+Fers,Écrans solaires,Articles de protection,2.26316,28.1,2.49527
+Écrans solaires,Fers,Matériel de golf,2.26316,20.1,2.49527
+Accessoires de golf,Sacs de couchage,Matériel de camping,2.68421,35.7,2.42008
+Sacs de couchage,Accessoires de golf,Matériel de golf,2.68421,18.2,2.42008
+Écrans solaires + Insectifuges,Accessoires de golf,Matériel de golf,1.26316,17.9,2.37971
+Fers,Lampes,Matériel de camping,3.57895,44.4,2.35221
+Lampes,Fers,Matériel de golf,3.57895,18.9,2.35221
+Écrans solaires + Matériel de premiers soins + Insectifuges,Accessoires de golf,Matériel de golf,0.94737,17.1,2.27772
+Accessoires de golf,Insectifuges,Articles de protection,2.05263,27.3,2.25296
+Insectifuges,Accessoires de golf,Matériel de golf,2.05263,17.0,2.25296
+Accessoires de golf,Écrans solaires,Articles de protection,1.89474,25.2,2.23515
+Écrans solaires,Accessoires de golf,Matériel de golf,1.89474,16.8,2.23515
+Écrans solaires + Ustensiles de cuisine,Couteaux,Accessoires personnels,1.36842,24.1,2.2097
+Écrans solaires + Lampes,Couteaux,Accessoires personnels,1.31579,23.4,2.14457
+Accessoires de golf,Lampes,Matériel de camping,3.0,39.9,2.10959
+Lampes,Accessoires de golf,Matériel de golf,3.0,15.9,2.10959
+Sacs à dos et autres contenants + Sacs de couchage + Lampes,Jumelles,Accessoires personnels,1.78947,32.4,2.03721
+Tentes + Sacs de couchage + Ustensiles de cuisine,Couteaux,Accessoires personnels,1.26316,22.0,2.02101
+Insectifuges + Sacs de couchage,Jumelles,Accessoires personnels,1.68421,31.4,1.97377
+Tentes + Ustensiles de cuisine + Lampes,Couteaux,Accessoires personnels,1.36842,21.1,1.94022
+Sacs à dos et autres contenants + Sacs de couchage + Ustensiles de cuisine,Couteaux,Accessoires personnels,1.05263,21.1,1.93237
+Insectifuges + Tentes,Jumelles,Accessoires personnels,1.52632,30.5,1.92053
+Insectifuges + Ustensiles de cuisine,Couteaux,Accessoires personnels,1.26316,20.9,1.91556
+Sacs de couchage + Ustensiles de cuisine + Lampes,Couteaux,Accessoires personnels,1.42105,20.8,1.90635
+Tentes + Sacs de couchage + Lampes,Jumelles,Accessoires personnels,1.84211,30.2,1.89826
+Tentes + Ustensiles de cuisine,Couteaux,Accessoires personnels,1.89474,20.6,1.8882
+Sacs à dos et autres contenants + Tentes,Jumelles,Accessoires personnels,1.89474,29.8,1.87182
+Insectifuges + Ustensiles de cuisine,Jumelles,Accessoires personnels,1.78947,29.6,1.86006
+Écrans solaires + Lampes,Jumelles,Accessoires personnels,1.63158,29.0,1.82274
+Tentes + Ustensiles de cuisine + Lampes,Jumelles,Accessoires personnels,1.84211,28.5,1.79023
+Tentes + Sacs de couchage + Ustensiles de cuisine,Jumelles,Accessoires personnels,1.63158,28.4,1.78929
+Sacs à dos et autres contenants + Sacs de couchage + Ustensiles de cuisine,Jumelles,Accessoires personnels,1.42105,28.4,1.78808
+Écrans solaires + Insectifuges,Couteaux,Accessoires personnels,1.36842,19.4,1.78095
+Sacs de couchage + Ustensiles de cuisine,Couteaux,Accessoires personnels,1.68421,19.2,1.7588
+Matériel de premiers soins + Ustensiles de cuisine,Jumelles,Accessoires personnels,1.73684,27.7,1.74467
+Insectifuges + Tentes,Couteaux,Accessoires personnels,0.94737,18.9,1.73913
+Écrans solaires + Insectifuges,Jumelles,Accessoires personnels,1.94737,27.6,1.73718
+Écrans solaires + Sacs de couchage,Couteaux,Accessoires personnels,0.94737,18.8,1.72101
+Sacs à dos et autres contenants + Ustensiles de cuisine + Lampes,Couteaux,Accessoires personnels,1.10526,18.8,1.72101
+Matériel de premiers soins + Tentes,Jumelles,Accessoires personnels,1.36842,27.1,1.70392
+Sacs de couchage + Ustensiles de cuisine + Lampes,Jumelles,Accessoires personnels,1.84211,26.9,1.69384
+Sacs à dos et autres contenants + Ustensiles de cuisine + Lampes,Jumelles,Accessoires personnels,1.57895,26.8,1.68519
+Insectifuges + Lampes,Jumelles,Accessoires personnels,1.78947,26.6,1.67115
+Matériel de premiers soins + Lampes,Jumelles,Accessoires personnels,1.63158,26.5,1.66695
+Sacs à dos et autres contenants + Sacs de couchage + Lampes,Couteaux,Accessoires personnels,1.0,18.1,1.66092
+Sacs à dos et autres contenants + Sacs de couchage,Jumelles,Accessoires personnels,1.89474,26.3,1.65321
+Insectifuges + Lampes,Couteaux,Accessoires personnels,1.21053,18.0,1.64931
+Écrans solaires + Sacs de couchage,Jumelles,Accessoires personnels,1.31579,26.0,1.63838
+Écrans solaires + Ustensiles de cuisine,Jumelles,Accessoires personnels,1.47368,25.9,1.6311
+Sacs à dos et autres contenants + Lampes,Jumelles,Accessoires personnels,2.21053,25.9,1.6311
+Matériel de premiers soins + Ustensiles de cuisine,Couteaux,Accessoires personnels,1.10526,17.6,1.61978
+Écrans solaires + Matériel de premiers soins + Insectifuges,Jumelles,Accessoires personnels,1.42105,25.7,1.61779
+Matériel de premiers soins + Sacs de couchage,Jumelles,Accessoires personnels,1.36842,25.5,1.60369
+Tentes + Sacs de couchage,Jumelles,Accessoires personnels,2.15789,25.5,1.60216
+Sacs à dos et autres contenants + Tentes,Couteaux,Accessoires personnels,1.10526,17.4,1.59301
+Écrans solaires + Matériel de premiers soins + Insectifuges,Couteaux,Accessoires personnels,0.94737,17.1,1.5735
+Matériel de premiers soins + Insectifuges,Jumelles,Accessoires personnels,1.84211,25.0,1.57285
+Sacs à dos et autres contenants + Ustensiles de cuisine,Couteaux,Accessoires personnels,1.26316,17.0,1.56234
+Sacs à dos et autres contenants + Ustensiles de cuisine,Jumelles,Accessoires personnels,1.84211,24.8,1.56169
+Tentes + Lampes,Couteaux,Accessoires personnels,1.52632,17.0,1.55663
+Ustensiles de cuisine + Lampes,Couteaux,Accessoires personnels,1.94737,16.9,1.55075
+Tentes + Lampes,Jumelles,Accessoires personnels,2.21053,24.6,1.54525
+Sacs de couchage + Lampes,Jumelles,Accessoires personnels,2.26316,24.4,1.5371
+Insectifuges + Sacs de couchage,Couteaux,Accessoires personnels,0.89474,16.7,1.52979
+Sacs à dos et autres contenants + Lampes,Couteaux,Accessoires personnels,1.42105,16.7,1.52979
+Tentes + Sacs de couchage + Lampes,Couteaux,Accessoires personnels,1.0,16.4,1.50341
+Couteaux,Écrans solaires,Articles de protection,1.84211,16.9,1.5012
+Écrans solaires,Couteaux,Accessoires personnels,1.84211,16.4,1.5012
+Écrans solaires,Jumelles,Accessoires personnels,2.68421,23.8,1.49935
+Jumelles,Écrans solaires,Articles de protection,2.68421,16.9,1.49935
+Jumelles,Insectifuges,Articles de protection,2.84211,17.9,1.47711
+Insectifuges,Jumelles,Accessoires personnels,2.84211,23.5,1.47711
+Sacs à dos et autres contenants + Sacs de couchage,Couteaux,Accessoires personnels,1.15789,16.1,1.47396
+Sacs de couchage + Lampes,Couteaux,Accessoires personnels,1.47368,15.9,1.46025
+Tentes + Sacs de couchage,Couteaux,Accessoires personnels,1.31579,15.5,1.42527
+Écrans solaires + Matériel de premiers soins,Jumelles,Accessoires personnels,1.63158,22.6,1.4236
+Jumelles,Sacs à dos et autres contenants,Matériel de camping,2.89474,18.2,1.41814
+Sacs à dos et autres contenants,Jumelles,Accessoires personnels,2.89474,22.5,1.41814
+Bois,Jumelles,Accessoires personnels,1.68421,22.5,1.41778
+Jumelles,Bois,Matériel de golf,1.68421,10.6,1.41778
+Matériel de premiers soins + Lampes,Couteaux,Accessoires personnels,0.94737,15.4,1.41211
+Couteaux,Tentes,Matériel de camping,2.21053,20.3,1.40696
+Tentes,Couteaux,Accessoires personnels,2.21053,15.3,1.40696
+Tentes + Ustensiles de cuisine,Jumelles,Accessoires personnels,2.05263,22.3,1.40208
+Sacs de couchage + Ustensiles de cuisine,Jumelles,Accessoires personnels,1.94737,22.2,1.3939
+Insectifuges + Sacs de couchage,Matériel d'orientation,Accessoires personnels,1.05263,19.6,1.36465
+Couteaux,Insectifuges,Articles de protection,1.78947,16.4,1.35686
+Insectifuges,Couteaux,Accessoires personnels,1.78947,14.8,1.35686
+Couteaux,Ustensiles de cuisine,Matériel de camping,2.57895,23.7,1.35063
+Ustensiles de cuisine,Couteaux,Accessoires personnels,2.57895,14.7,1.35063
+Écrans solaires + Matériel de premiers soins,Couteaux,Accessoires personnels,1.05263,14.6,1.33996
+Matériel de premiers soins + Tentes,Couteaux,Accessoires personnels,0.73684,14.6,1.33857
+Couteaux + Lunettes,Sacs à dos et autres contenants,Matériel de camping,1.15789,17.2,1.33837
+Matériel de premiers soins + Insectifuges,Couteaux,Accessoires personnels,1.05263,14.3,1.31125
+Ustensiles de cuisine + Lampes,Jumelles,Accessoires personnels,2.36842,20.5,1.29275
+Matériel de premiers soins,Jumelles,Accessoires personnels,2.31579,20.5,1.28754
+Jumelles,Matériel de premiers soins,Articles de protection,2.31579,14.6,1.28754
+Couteaux,Sacs à dos et autres contenants,Matériel de camping,1.78947,16.4,1.27901
+Sacs à dos et autres contenants,Couteaux,Accessoires personnels,1.78947,13.9,1.27901
+Couteaux,Sacs de couchage,Matériel de camping,2.05263,18.8,1.27847
+Sacs de couchage,Couteaux,Accessoires personnels,2.05263,13.9,1.27847
+Fers,Jumelles,Accessoires personnels,1.63158,20.3,1.27473
+Jumelles,Fers,Matériel de golf,1.63158,10.3,1.27473
+Matériel de premiers soins + Sacs de couchage,Couteaux,Accessoires personnels,0.73684,13.7,1.25983
+Couteaux,Lampes,Matériel de camping,2.57895,23.7,1.25281
+Lampes,Couteaux,Accessoires personnels,2.57895,13.6,1.25281
+Jumelles,Tentes,Matériel de camping,2.84211,17.9,1.23991
+Tentes,Jumelles,Accessoires personnels,2.84211,19.7,1.23991
+Accessoires de golf,Jumelles,Accessoires personnels,1.47368,19.6,1.23188
+Jumelles,Sacs de couchage,Matériel de camping,2.84211,17.9,1.21334
+Sacs de couchage,Jumelles,Accessoires personnels,2.84211,19.3,1.21334
+Fers droits,Jumelles,Accessoires personnels,1.15789,19.1,1.20357
+Couteaux,Matériel de premiers soins,Articles de protection,1.42105,13.0,1.15268
+Matériel de premiers soins,Couteaux,Accessoires personnels,1.42105,12.6,1.15268
+Fers droits,Couteaux,Accessoires personnels,0.73684,12.2,1.11741
+Bois,Couteaux,Accessoires personnels,0.89474,12.0,1.09886
+Matériel de premiers soins + Sacs de couchage,Matériel d'orientation,Accessoires personnels,0.84211,15.7,1.09172
+Accessoires de golf,Couteaux,Accessoires personnels,0.89474,11.9,1.09118
+Jumelles,Lampes,Matériel de camping,3.15789,19.9,1.05149
+Lampes,Jumelles,Accessoires personnels,3.15789,16.7,1.05149
+Insectifuges + Tentes,Matériel d'orientation,Accessoires personnels,0.73684,14.7,1.02564
+Sacs à dos et autres contenants + Sacs de couchage + Ustensiles de cuisine,Matériel d'orientation,Accessoires personnels,0.73684,14.7,1.02564
+Fers,Couteaux,Accessoires personnels,0.89474,11.1,1.01986
+Matériel de premiers soins + Lampes,Matériel d'orientation,Accessoires personnels,0.89474,14.5,1.01124
+Jumelles,Ustensiles de cuisine,Matériel de camping,2.78947,17.5,1.00133
+Ustensiles de cuisine,Jumelles,Accessoires personnels,2.78947,15.9,1.00133

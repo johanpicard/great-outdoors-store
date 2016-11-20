@@ -1,0 +1,48 @@
+<!--start-breadcrumbs-->
+<div class="breadcrumbs">
+	<div class="container">
+		<div class="breadcrumbs-main">
+			<ol class="breadcrumb">
+				<li><a href="" ng-click="goToHomePage()">Accueil</a></li>
+				<li class="active">Panier</li>
+			</ol>
+		</div>
+	</div>
+</div>
+<!--end-breadcrumbs-->
+<!--start-ckeckout-->
+<div class="ckeckout">
+	<div class="container">
+		<div class="ckeckout-top">
+		<div class=" cart-items heading">
+		 <h3>Mon panier ({{cart.length}})</h3>
+		<div class="in-check" >
+			<ul class="unit">
+				<li><span>Produit</span></li>
+				<li><span> </span></li>		
+				<li><span>Prix unitaire</span></li>
+				<li><span>Quantité</span></li>
+				<li><span>Prix total</span></li>
+				<div class="clearfix"> </div>
+			</ul>
+			<ul class="cart-header" ng-repeat="product in cart">
+				<div class="close" ng-click="removeFromCart(product)"> </div>
+				<li class="ring-in"><img src="images/{{product.Image_du_produit}}" alt="" width="200" height="200">
+				</li>
+				<li><span>{{product.Produit}}</span></li>
+				<li><span>{{product.Prix_unitaire | number:2}} €</span></li>
+				<li><span><div class="form-group">
+					<input type="number" class="form-control" ng-model="product.Quantite" min="1" ng-change="updateTotalPrice()">
+				</div></span></li>
+				<li><span class="last-col">{{product.Prix_unitaire*product.Quantite | number:2}} €</span></li>
+				<div class="clearfix"> </div>
+			</ul>
+			<h3 class="pull-right">Total : {{totalPrice | number:2}} €</h3>
+		</div>
+		</div>  
+	 </div>
+	</div>
+</div>
+<!--end-ckeckout-->
+
+<recommandations></recommandations>

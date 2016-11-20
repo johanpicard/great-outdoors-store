@@ -1,0 +1,3900 @@
+{"rules":
+  [
+  {
+    "Antecedent": "Écrans solaires + Sacs de couchage",
+    "Consequent": "Matériel de premiers soins",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 3.73684,
+    "Rule_Confidence%": 74,
+    "Rule_Lift": 6.53585
+  },
+  {
+    "Antecedent": "Écrans solaires + Ustensiles de cuisine",
+    "Consequent": "Matériel de premiers soins",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 4.10526,
+    "Rule_Confidence%": 72.2,
+    "Rule_Lift": 6.38243
+  },
+  {
+    "Antecedent": "Écrans solaires + Lampes",
+    "Consequent": "Matériel de premiers soins",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 3.94737,
+    "Rule_Confidence%": 70.1,
+    "Rule_Lift": 6.19431
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Sacs de couchage",
+    "Consequent": "Écrans solaires",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 3.73684,
+    "Rule_Confidence%": 69.6,
+    "Rule_Lift": 6.18014
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Tentes",
+    "Consequent": "Écrans solaires",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 3.47368,
+    "Rule_Confidence%": 68.7,
+    "Rule_Lift": 6.10397
+  },
+  {
+    "Antecedent": "Insectifuges + Ustensiles de cuisine",
+    "Consequent": "Matériel de premiers soins",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 4.10526,
+    "Rule_Confidence%": 67.8,
+    "Rule_Lift": 5.99393
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Ustensiles de cuisine + Lampes",
+    "Consequent": "Fers droits",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.10526,
+    "Rule_Confidence%": 35.7,
+    "Rule_Lift": 5.90062
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Tentes",
+    "Consequent": "Fers droits",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.26316,
+    "Rule_Confidence%": 35.5,
+    "Rule_Lift": 5.87136
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Sacs de couchage + Lampes",
+    "Consequent": "Fers droits",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.94737,
+    "Rule_Confidence%": 35.2,
+    "Rule_Lift": 5.82195
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Ustensiles de cuisine",
+    "Consequent": "Écrans solaires",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 4.10526,
+    "Rule_Confidence%": 65.5,
+    "Rule_Lift": 5.81952
+  },
+  {
+    "Antecedent": "Écrans solaires + Lampes",
+    "Consequent": "Insectifuges",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 3.94737,
+    "Rule_Confidence%": 70.1,
+    "Rule_Lift": 5.79033
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Sacs de couchage + Ustensiles de cuisine",
+    "Consequent": "Fers droits",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.73684,
+    "Rule_Confidence%": 34.7,
+    "Rule_Lift": 5.73913
+  },
+  {
+    "Antecedent": "Insectifuges + Tentes",
+    "Consequent": "Écrans solaires",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 3.21053,
+    "Rule_Confidence%": 64.2,
+    "Rule_Lift": 5.70093
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Lampes",
+    "Consequent": "Écrans solaires",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 3.94737,
+    "Rule_Confidence%": 64.1,
+    "Rule_Lift": 5.69135
+  },
+  {
+    "Antecedent": "Insectifuges + Tentes",
+    "Consequent": "Matériel de premiers soins",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 3.21053,
+    "Rule_Confidence%": 64.2,
+    "Rule_Lift": 5.67442
+  },
+  {
+    "Antecedent": "Insectifuges + Sacs de couchage",
+    "Consequent": "Matériel de premiers soins",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 3.42105,
+    "Rule_Confidence%": 63.7,
+    "Rule_Lift": 5.63155
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Ustensiles de cuisine + Lampes",
+    "Consequent": "Bois",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.47368,
+    "Rule_Confidence%": 42,
+    "Rule_Lift": 5.61494
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Lampes",
+    "Consequent": "Insectifuges",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 4.10526,
+    "Rule_Confidence%": 66.7,
+    "Rule_Lift": 5.50725
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Ustensiles de cuisine",
+    "Consequent": "Insectifuges",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 4.10526,
+    "Rule_Confidence%": 65.5,
+    "Rule_Lift": 5.41469
+  },
+  {
+    "Antecedent": "Insectifuges + Lampes",
+    "Consequent": "Matériel de premiers soins",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 4.10526,
+    "Rule_Confidence%": 60.9,
+    "Rule_Lift": 5.38517
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Sacs de couchage + Ustensiles de cuisine",
+    "Consequent": "Fers",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.15789,
+    "Rule_Confidence%": 43.2,
+    "Rule_Lift": 5.35948
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Sacs de couchage + Ustensiles de cuisine",
+    "Consequent": "Bois",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2,
+    "Rule_Confidence%": 40,
+    "Rule_Lift": 5.35211
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Ustensiles de cuisine + Lampes",
+    "Consequent": "Fers",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.52632,
+    "Rule_Confidence%": 42.9,
+    "Rule_Lift": 5.32213
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Sacs de couchage",
+    "Consequent": "Insectifuges",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 3.42105,
+    "Rule_Confidence%": 63.7,
+    "Rule_Lift": 5.26428
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Tentes",
+    "Consequent": "Insectifuges",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 3.21053,
+    "Rule_Confidence%": 63.5,
+    "Rule_Lift": 5.24909
+  },
+  {
+    "Antecedent": "Insectifuges + Sacs de couchage",
+    "Consequent": "Écrans solaires",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 3.15789,
+    "Rule_Confidence%": 58.8,
+    "Rule_Lift": 5.22265
+  },
+  {
+    "Antecedent": "Insectifuges + Lampes",
+    "Consequent": "Écrans solaires",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 3.94737,
+    "Rule_Confidence%": 58.6,
+    "Rule_Lift": 5.20225
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Sacs de couchage",
+    "Consequent": "Fers droits",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.26316,
+    "Rule_Confidence%": 31.4,
+    "Rule_Lift": 5.18566
+  },
+  {
+    "Antecedent": "Insectifuges + Ustensiles de cuisine",
+    "Consequent": "Écrans solaires",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 3.52632,
+    "Rule_Confidence%": 58.3,
+    "Rule_Lift": 5.17269
+  },
+  {
+    "Antecedent": "Écrans solaires + Sacs de couchage",
+    "Consequent": "Insectifuges",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 3.15789,
+    "Rule_Confidence%": 62.5,
+    "Rule_Lift": 5.16304
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Ustensiles de cuisine",
+    "Consequent": "Fers droits",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.31579,
+    "Rule_Confidence%": 31.2,
+    "Rule_Lift": 5.15572
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Tentes",
+    "Consequent": "Fers",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.63158,
+    "Rule_Confidence%": 41.3,
+    "Rule_Lift": 5.13153
+  },
+  {
+    "Antecedent": "Écrans solaires + Ustensiles de cuisine",
+    "Consequent": "Insectifuges",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 3.52632,
+    "Rule_Confidence%": 62,
+    "Rule_Lift": 5.1248
+  },
+  {
+    "Antecedent": "Écrans solaires + Lampes",
+    "Consequent": "Fers droits",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.73684,
+    "Rule_Confidence%": 30.8,
+    "Rule_Lift": 5.09549
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Sacs de couchage + Lampes",
+    "Consequent": "Fers",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.26316,
+    "Rule_Confidence%": 41,
+    "Rule_Lift": 5.08559
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Tentes",
+    "Consequent": "Accessoires de golf",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.42105,
+    "Rule_Confidence%": 38,
+    "Rule_Lift": 5.05115
+  },
+  {
+    "Antecedent": "Écrans solaires + Sacs de couchage",
+    "Consequent": "Fers droits",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.52632,
+    "Rule_Confidence%": 30.2,
+    "Rule_Lift": 4.99094
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Sacs de couchage + Lampes",
+    "Consequent": "Bois",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.05263,
+    "Rule_Confidence%": 37.1,
+    "Rule_Lift": 4.96982
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Ustensiles de cuisine",
+    "Consequent": "Fers",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.94737,
+    "Rule_Confidence%": 39.7,
+    "Rule_Lift": 4.93209
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Lampes",
+    "Consequent": "Fers droits",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.52632,
+    "Rule_Confidence%": 29.6,
+    "Rule_Lift": 4.89533
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Tentes",
+    "Consequent": "Sacs de couchage",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.63158,
+    "Rule_Confidence%": 71.9,
+    "Rule_Lift": 4.87723
+  },
+  {
+    "Antecedent": "Tentes + Sacs de couchage + Ustensiles de cuisine",
+    "Consequent": "Fers droits",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.68421,
+    "Rule_Confidence%": 29.4,
+    "Rule_Lift": 4.85042
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Tentes",
+    "Consequent": "Accessoires de golf",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.84211,
+    "Rule_Confidence%": 36.5,
+    "Rule_Lift": 4.84411
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Ustensiles de cuisine",
+    "Consequent": "Bois",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.68421,
+    "Rule_Confidence%": 36.2,
+    "Rule_Lift": 4.83968
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Tentes",
+    "Consequent": "Bois",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.26316,
+    "Rule_Confidence%": 35.5,
+    "Rule_Lift": 4.75498
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Ustensiles de cuisine + Lampes",
+    "Consequent": "Accessoires de golf",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.10526,
+    "Rule_Confidence%": 35.7,
+    "Rule_Lift": 4.74525
+  },
+  {
+    "Antecedent": "Tentes + Ustensiles de cuisine + Lampes",
+    "Consequent": "Fers droits",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.84211,
+    "Rule_Confidence%": 28.5,
+    "Rule_Lift": 4.70131
+  },
+  {
+    "Antecedent": "Tentes + Sacs de couchage + Lampes",
+    "Consequent": "Fers droits",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.73684,
+    "Rule_Confidence%": 28.4,
+    "Rule_Lift": 4.70015
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Sacs de couchage",
+    "Consequent": "Tentes",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.63158,
+    "Rule_Confidence%": 67.6,
+    "Rule_Lift": 4.69085
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Lampes",
+    "Consequent": "Fers droits",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.73684,
+    "Rule_Confidence%": 28.2,
+    "Rule_Lift": 4.65998
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Tentes",
+    "Consequent": "Ustensiles de cuisine",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 4.10526,
+    "Rule_Confidence%": 81.2,
+    "Rule_Lift": 4.63589
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Sacs de couchage + Ustensiles de cuisine",
+    "Consequent": "Accessoires de golf",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.73684,
+    "Rule_Confidence%": 34.7,
+    "Rule_Lift": 4.61538
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Lampes",
+    "Consequent": "Bois",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.10526,
+    "Rule_Confidence%": 34.2,
+    "Rule_Lift": 4.57446
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Sacs de couchage + Lampes",
+    "Consequent": "Accessoires de golf",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.89474,
+    "Rule_Confidence%": 34.3,
+    "Rule_Lift": 4.55544
+  },
+  {
+    "Antecedent": "Écrans solaires + Sacs de couchage",
+    "Consequent": "Tentes",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.31579,
+    "Rule_Confidence%": 65.6,
+    "Rule_Lift": 4.55064
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Ustensiles de cuisine",
+    "Consequent": "Tentes",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 4.10526,
+    "Rule_Confidence%": 65.5,
+    "Rule_Lift": 4.54518
+  },
+  {
+    "Antecedent": "Tentes + Ustensiles de cuisine + Lampes",
+    "Consequent": "Fers",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.36842,
+    "Rule_Confidence%": 36.6,
+    "Rule_Lift": 4.54328
+  },
+  {
+    "Antecedent": "Insectifuges + Ustensiles de cuisine",
+    "Consequent": "Bois",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.05263,
+    "Rule_Confidence%": 33.9,
+    "Rule_Lift": 4.53766
+  },
+  {
+    "Antecedent": "Tentes + Ustensiles de cuisine + Lampes",
+    "Consequent": "Accessoires de golf",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.21053,
+    "Rule_Confidence%": 34.1,
+    "Rule_Lift": 4.53693
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Tentes",
+    "Consequent": "Fers",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.84211,
+    "Rule_Confidence%": 36.5,
+    "Rule_Lift": 4.52751
+  },
+  {
+    "Antecedent": "Écrans solaires + Lampes",
+    "Consequent": "Bois",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.89474,
+    "Rule_Confidence%": 33.6,
+    "Rule_Lift": 4.50178
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Tentes",
+    "Consequent": "Fers droits",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.36842,
+    "Rule_Confidence%": 27.1,
+    "Rule_Lift": 4.47464
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Lampes",
+    "Consequent": "Bois",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.84211,
+    "Rule_Confidence%": 33.3,
+    "Rule_Lift": 4.46009
+  },
+  {
+    "Antecedent": "Tentes + Ustensiles de cuisine + Lampes",
+    "Consequent": "Bois",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.15789,
+    "Rule_Confidence%": 33.3,
+    "Rule_Lift": 4.46009
+  },
+  {
+    "Antecedent": "Sacs de couchage + Ustensiles de cuisine + Lampes",
+    "Consequent": "Fers droits",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.84211,
+    "Rule_Confidence%": 26.9,
+    "Rule_Lift": 4.44816
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Lampes",
+    "Consequent": "Ustensiles de cuisine",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 4.78947,
+    "Rule_Confidence%": 77.8,
+    "Rule_Lift": 4.43777
+  },
+  {
+    "Antecedent": "Écrans solaires + Ustensiles de cuisine",
+    "Consequent": "Fers droits",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.52632,
+    "Rule_Confidence%": 26.9,
+    "Rule_Lift": 4.43639
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Sacs de couchage",
+    "Consequent": "Bois",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.36842,
+    "Rule_Confidence%": 32.8,
+    "Rule_Lift": 4.39498
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Ustensiles de cuisine",
+    "Consequent": "Bois",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.05263,
+    "Rule_Confidence%": 32.8,
+    "Rule_Lift": 4.38513
+  },
+  {
+    "Antecedent": "Tentes + Sacs de couchage + Ustensiles de cuisine",
+    "Consequent": "Matériel de premiers soins",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 2.84211,
+    "Rule_Confidence%": 49.5,
+    "Rule_Lift": 4.37807
+  },
+  {
+    "Antecedent": "Écrans solaires + Lampes",
+    "Consequent": "Sacs de couchage",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.63158,
+    "Rule_Confidence%": 64.5,
+    "Rule_Lift": 4.37583
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Sacs de couchage",
+    "Consequent": "Fers droits",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.42105,
+    "Rule_Confidence%": 26.5,
+    "Rule_Lift": 4.3734
+  },
+  {
+    "Antecedent": "Insectifuges + Sacs de couchage",
+    "Consequent": "Fers droits",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.42105,
+    "Rule_Confidence%": 26.5,
+    "Rule_Lift": 4.3734
+  },
+  {
+    "Antecedent": "Insectifuges + Tentes",
+    "Consequent": "Bois",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.63158,
+    "Rule_Confidence%": 32.6,
+    "Rule_Lift": 4.3662
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Sacs de couchage",
+    "Consequent": "Fers",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.52632,
+    "Rule_Confidence%": 35,
+    "Rule_Lift": 4.35094
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Lampes",
+    "Consequent": "Sacs de couchage",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.94737,
+    "Rule_Confidence%": 64.1,
+    "Rule_Lift": 4.34982
+  },
+  {
+    "Antecedent": "Tentes + Sacs de couchage + Ustensiles de cuisine",
+    "Consequent": "Fers",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2,
+    "Rule_Confidence%": 34.9,
+    "Rule_Lift": 4.32932
+  },
+  {
+    "Antecedent": "Écrans solaires + Lampes",
+    "Consequent": "Ustensiles de cuisine",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 4.26316,
+    "Rule_Confidence%": 75.7,
+    "Rule_Lift": 4.31927
+  },
+  {
+    "Antecedent": "Insectifuges + Tentes",
+    "Consequent": "Fers",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.73684,
+    "Rule_Confidence%": 34.7,
+    "Rule_Lift": 4.31373
+  },
+  {
+    "Antecedent": "Tentes + Ustensiles de cuisine + Lampes",
+    "Consequent": "Matériel de premiers soins",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 3.15789,
+    "Rule_Confidence%": 48.8,
+    "Rule_Lift": 4.31083
+  },
+  {
+    "Antecedent": "Insectifuges + Ustensiles de cuisine",
+    "Consequent": "Lampes",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 4.89474,
+    "Rule_Confidence%": 80.9,
+    "Rule_Lift": 4.28
+  },
+  {
+    "Antecedent": "Écrans solaires + Ustensiles de cuisine",
+    "Consequent": "Sacs de couchage",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.57895,
+    "Rule_Confidence%": 63,
+    "Rule_Lift": 4.27249
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Lampes",
+    "Consequent": "Sacs à dos et autres contenants",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.36842,
+    "Rule_Confidence%": 54.7,
+    "Rule_Lift": 4.25949
+  },
+  {
+    "Antecedent": "Écrans solaires + Matériel de premiers soins + Insectifuges",
+    "Consequent": "Fers droits",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.42105,
+    "Rule_Confidence%": 25.7,
+    "Rule_Lift": 4.24845
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Ustensiles de cuisine",
+    "Consequent": "Accessoires de golf",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.36842,
+    "Rule_Confidence%": 31.9,
+    "Rule_Lift": 4.24044
+  },
+  {
+    "Antecedent": "Sacs de couchage + Ustensiles de cuisine + Lampes",
+    "Consequent": "Bois",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.15789,
+    "Rule_Confidence%": 31.5,
+    "Rule_Lift": 4.21993
+  },
+  {
+    "Antecedent": "Écrans solaires + Ustensiles de cuisine",
+    "Consequent": "Bois",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.78947,
+    "Rule_Confidence%": 31.5,
+    "Rule_Lift": 4.21231
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Sacs de couchage + Lampes",
+    "Consequent": "Matériel de premiers soins",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 2.63158,
+    "Rule_Confidence%": 47.6,
+    "Rule_Lift": 4.20819
+  },
+  {
+    "Antecedent": "Tentes + Sacs de couchage",
+    "Consequent": "Fers droits",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.15789,
+    "Rule_Confidence%": 25.5,
+    "Rule_Lift": 4.2074
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Sacs de couchage",
+    "Consequent": "Sacs à dos et autres contenants",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 2.89474,
+    "Rule_Confidence%": 53.9,
+    "Rule_Lift": 4.19881
+  },
+  {
+    "Antecedent": "Écrans solaires + Insectifuges",
+    "Consequent": "Fers droits",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.78947,
+    "Rule_Confidence%": 25.4,
+    "Rule_Lift": 4.19208
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Tentes",
+    "Consequent": "Bois",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.57895,
+    "Rule_Confidence%": 31.3,
+    "Rule_Lift": 4.18134
+  },
+  {
+    "Antecedent": "Insectifuges + Lampes",
+    "Consequent": "Bois",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.10526,
+    "Rule_Confidence%": 31.3,
+    "Rule_Lift": 4.18134
+  },
+  {
+    "Antecedent": "Tentes + Sacs de couchage + Lampes",
+    "Consequent": "Fers",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.05263,
+    "Rule_Confidence%": 33.6,
+    "Rule_Lift": 4.17512
+  },
+  {
+    "Antecedent": "Insectifuges + Tentes",
+    "Consequent": "Fers droits",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.26316,
+    "Rule_Confidence%": 25.3,
+    "Rule_Lift": 4.17391
+  },
+  {
+    "Antecedent": "Tentes + Sacs de couchage + Ustensiles de cuisine",
+    "Consequent": "Bois",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.78947,
+    "Rule_Confidence%": 31.2,
+    "Rule_Lift": 4.17367
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Ustensiles de cuisine",
+    "Consequent": "Sacs de couchage",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.84211,
+    "Rule_Confidence%": 61.3,
+    "Rule_Lift": 4.16267
+  },
+  {
+    "Antecedent": "Insectifuges + Lampes",
+    "Consequent": "Ustensiles de cuisine",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 4.89474,
+    "Rule_Confidence%": 72.7,
+    "Rule_Lift": 4.14555
+  },
+  {
+    "Antecedent": "Tentes + Sacs de couchage + Ustensiles de cuisine",
+    "Consequent": "Accessoires de golf",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.78947,
+    "Rule_Confidence%": 31.2,
+    "Rule_Lift": 4.14448
+  },
+  {
+    "Antecedent": "Tentes + Sacs de couchage + Lampes",
+    "Consequent": "Accessoires de golf",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.89474,
+    "Rule_Confidence%": 31,
+    "Rule_Lift": 4.12346
+  },
+  {
+    "Antecedent": "Insectifuges + Sacs de couchage",
+    "Consequent": "Sacs à dos et autres contenants",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 2.84211,
+    "Rule_Confidence%": 52.9,
+    "Rule_Lift": 4.12247
+  },
+  {
+    "Antecedent": "Tentes + Sacs de couchage + Lampes",
+    "Consequent": "Matériel de premiers soins",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 2.84211,
+    "Rule_Confidence%": 46.6,
+    "Rule_Lift": 4.11387
+  },
+  {
+    "Antecedent": "Écrans solaires + Ustensiles de cuisine",
+    "Consequent": "Tentes",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.36842,
+    "Rule_Confidence%": 59.3,
+    "Rule_Lift": 4.10922
+  },
+  {
+    "Antecedent": "Sacs de couchage + Ustensiles de cuisine + Lampes",
+    "Consequent": "Fers",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.26316,
+    "Rule_Confidence%": 33.1,
+    "Rule_Lift": 4.10759
+  },
+  {
+    "Antecedent": "Écrans solaires + Matériel de premiers soins",
+    "Consequent": "Fers droits",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.78947,
+    "Rule_Confidence%": 24.8,
+    "Rule_Lift": 4.10029
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Sacs de couchage",
+    "Consequent": "Ustensiles de cuisine",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.84211,
+    "Rule_Confidence%": 71.6,
+    "Rule_Lift": 4.0835
+  },
+  {
+    "Antecedent": "Écrans solaires + Lampes",
+    "Consequent": "Sacs à dos et autres contenants",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 2.94737,
+    "Rule_Confidence%": 52.3,
+    "Rule_Lift": 4.07538
+  },
+  {
+    "Antecedent": "Insectifuges + Tentes",
+    "Consequent": "Sacs de couchage",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3,
+    "Rule_Confidence%": 60,
+    "Rule_Lift": 4.07143
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Sacs de couchage",
+    "Consequent": "Bois",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.63158,
+    "Rule_Confidence%": 30.4,
+    "Rule_Lift": 4.06656
+  },
+  {
+    "Antecedent": "Insectifuges + Sacs de couchage",
+    "Consequent": "Bois",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.63158,
+    "Rule_Confidence%": 30.4,
+    "Rule_Lift": 4.06656
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Lampes",
+    "Consequent": "Fers",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.78947,
+    "Rule_Confidence%": 32.7,
+    "Rule_Lift": 4.06278
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Ustensiles de cuisine",
+    "Consequent": "Lampes",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 4.78947,
+    "Rule_Confidence%": 76.5,
+    "Rule_Lift": 4.04719
+  },
+  {
+    "Antecedent": "Écrans solaires + Sacs de couchage",
+    "Consequent": "Bois",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.52632,
+    "Rule_Confidence%": 30.2,
+    "Rule_Lift": 4.04196
+  },
+  {
+    "Antecedent": "Écrans solaires + Sacs de couchage",
+    "Consequent": "Ustensiles de cuisine",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.57895,
+    "Rule_Confidence%": 70.8,
+    "Rule_Lift": 4.04154
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Lampes",
+    "Consequent": "Fers",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2,
+    "Rule_Confidence%": 32.5,
+    "Rule_Lift": 4.03329
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Lampes",
+    "Consequent": "Tentes",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.57895,
+    "Rule_Confidence%": 58.1,
+    "Rule_Lift": 4.0302
+  },
+  {
+    "Antecedent": "Insectifuges + Ustensiles de cuisine",
+    "Consequent": "Fers droits",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.47368,
+    "Rule_Confidence%": 24.3,
+    "Rule_Lift": 4.02268
+  },
+  {
+    "Antecedent": "Écrans solaires + Lampes",
+    "Consequent": "Tentes",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.26316,
+    "Rule_Confidence%": 57.9,
+    "Rule_Lift": 4.01801
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Sacs de couchage",
+    "Consequent": "Fers",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.73684,
+    "Rule_Confidence%": 32.4,
+    "Rule_Lift": 4.01769
+  },
+  {
+    "Antecedent": "Sacs de couchage + Ustensiles de cuisine + Lampes",
+    "Consequent": "Matériel de premiers soins",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 3.10526,
+    "Rule_Confidence%": 45.4,
+    "Rule_Lift": 4.01073
+  },
+  {
+    "Antecedent": "Écrans solaires + Sacs de couchage",
+    "Consequent": "Fers",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.63158,
+    "Rule_Confidence%": 32.3,
+    "Rule_Lift": 4.01008
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Sacs de couchage + Ustensiles de cuisine",
+    "Consequent": "Matériel de premiers soins",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 2.26316,
+    "Rule_Confidence%": 45.3,
+    "Rule_Lift": 4
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Sacs de couchage",
+    "Consequent": "Accessoires de golf",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.15789,
+    "Rule_Confidence%": 29.9,
+    "Rule_Lift": 3.97632
+  },
+  {
+    "Antecedent": "Écrans solaires + Ustensiles de cuisine",
+    "Consequent": "Lampes",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 4.26316,
+    "Rule_Confidence%": 75,
+    "Rule_Lift": 3.96936
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Ustensiles de cuisine",
+    "Consequent": "Fers",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2,
+    "Rule_Confidence%": 31.9,
+    "Rule_Lift": 3.96551
+  },
+  {
+    "Antecedent": "Insectifuges + Ustensiles de cuisine",
+    "Consequent": "Sacs de couchage",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.52632,
+    "Rule_Confidence%": 58.3,
+    "Rule_Lift": 3.95342
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Ustensiles de cuisine + Lampes",
+    "Consequent": "Matériel de premiers soins",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 2.63158,
+    "Rule_Confidence%": 44.6,
+    "Rule_Lift": 3.94518
+  },
+  {
+    "Antecedent": "Tentes + Ustensiles de cuisine",
+    "Consequent": "Matériel de premiers soins",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 4.10526,
+    "Rule_Confidence%": 44.6,
+    "Rule_Lift": 3.93887
+  },
+  {
+    "Antecedent": "Écrans solaires + Sacs de couchage",
+    "Consequent": "Sacs à dos et autres contenants",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 2.52632,
+    "Rule_Confidence%": 50,
+    "Rule_Lift": 3.89344
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Tentes",
+    "Consequent": "Sacs à dos et autres contenants",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 2.52632,
+    "Rule_Confidence%": 50,
+    "Rule_Lift": 3.89344
+  },
+  {
+    "Antecedent": "Sacs de couchage + Ustensiles de cuisine + Lampes",
+    "Consequent": "Écrans solaires",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 3,
+    "Rule_Confidence%": 43.8,
+    "Rule_Lift": 3.89288
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Sacs de couchage",
+    "Consequent": "Lampes",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.94737,
+    "Rule_Confidence%": 73.5,
+    "Rule_Lift": 3.89153
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Ustensiles de cuisine",
+    "Consequent": "Fers droits",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.47368,
+    "Rule_Confidence%": 23.5,
+    "Rule_Lift": 3.88747
+  },
+  {
+    "Antecedent": "Insectifuges + Sacs de couchage",
+    "Consequent": "Tentes",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3,
+    "Rule_Confidence%": 55.9,
+    "Rule_Lift": 3.87505
+  },
+  {
+    "Antecedent": "Insectifuges + Lampes",
+    "Consequent": "Fers droits",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.57895,
+    "Rule_Confidence%": 23.4,
+    "Rule_Lift": 3.87228
+  },
+  {
+    "Antecedent": "Sacs de couchage + Ustensiles de cuisine",
+    "Consequent": "Matériel de premiers soins",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 3.84211,
+    "Rule_Confidence%": 43.7,
+    "Rule_Lift": 3.86297
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Sacs de couchage + Ustensiles de cuisine",
+    "Consequent": "Matériel de sécurité",
+    "Target_Product_Line": "Matériel de montagne",
+    "Relative_ItemSet_Support%": 0.57895,
+    "Rule_Confidence%": 11.6,
+    "Rule_Lift": 3.85965
+  },
+  {
+    "Antecedent": "Fers droits",
+    "Consequent": "Sacs à dos et autres contenants",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3,
+    "Rule_Confidence%": 49.6,
+    "Rule_Lift": 3.85959
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants",
+    "Consequent": "Fers droits",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 3,
+    "Rule_Confidence%": 23.4,
+    "Rule_Lift": 3.85959
+  },
+  {
+    "Antecedent": "Insectifuges + Ustensiles de cuisine",
+    "Consequent": "Sacs à dos et autres contenants",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3,
+    "Rule_Confidence%": 49.6,
+    "Rule_Lift": 3.85959
+  },
+  {
+    "Antecedent": "Sacs de couchage + Lampes",
+    "Consequent": "Fers droits",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.15789,
+    "Rule_Confidence%": 23.3,
+    "Rule_Lift": 3.84881
+  },
+  {
+    "Antecedent": "Tentes + Ustensiles de cuisine",
+    "Consequent": "Fers",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.84211,
+    "Rule_Confidence%": 30.9,
+    "Rule_Lift": 3.83193
+  },
+  {
+    "Antecedent": "Insectifuges + Lampes",
+    "Consequent": "Sacs de couchage",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.78947,
+    "Rule_Confidence%": 56.2,
+    "Rule_Lift": 3.81696
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Sacs de couchage + Lampes",
+    "Consequent": "Matériel de sécurité",
+    "Target_Product_Line": "Matériel de montagne",
+    "Relative_ItemSet_Support%": 0.63158,
+    "Rule_Confidence%": 11.4,
+    "Rule_Lift": 3.80952
+  },
+  {
+    "Antecedent": "Tentes + Sacs de couchage + Lampes",
+    "Consequent": "Bois",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.73684,
+    "Rule_Confidence%": 28.4,
+    "Rule_Lift": 3.80646
+  },
+  {
+    "Antecedent": "Écrans solaires + Sacs de couchage",
+    "Consequent": "Lampes",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.63158,
+    "Rule_Confidence%": 71.9,
+    "Rule_Lift": 3.80397
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Ustensiles de cuisine",
+    "Consequent": "Accessoires de golf",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.78947,
+    "Rule_Confidence%": 28.6,
+    "Rule_Lift": 3.7962
+  },
+  {
+    "Antecedent": "Tentes + Ustensiles de cuisine",
+    "Consequent": "Accessoires de golf",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.63158,
+    "Rule_Confidence%": 28.6,
+    "Rule_Lift": 3.7962
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Ustensiles de cuisine",
+    "Consequent": "Sacs à dos et autres contenants",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.05263,
+    "Rule_Confidence%": 48.7,
+    "Rule_Lift": 3.79529
+  },
+  {
+    "Antecedent": "Insectifuges + Tentes",
+    "Consequent": "Lampes",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.57895,
+    "Rule_Confidence%": 71.6,
+    "Rule_Lift": 3.7883
+  },
+  {
+    "Antecedent": "Tentes + Sacs de couchage",
+    "Consequent": "Matériel de premiers soins",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 3.63158,
+    "Rule_Confidence%": 42.9,
+    "Rule_Lift": 3.78738
+  },
+  {
+    "Antecedent": "Sacs de couchage + Ustensiles de cuisine + Lampes",
+    "Consequent": "Accessoires de golf",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.94737,
+    "Rule_Confidence%": 28.5,
+    "Rule_Lift": 3.7816
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Sacs de couchage",
+    "Consequent": "Accessoires de golf",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.52632,
+    "Rule_Confidence%": 28.4,
+    "Rule_Lift": 3.77759
+  },
+  {
+    "Antecedent": "Tentes + Ustensiles de cuisine",
+    "Consequent": "Fers droits",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.10526,
+    "Rule_Confidence%": 22.9,
+    "Rule_Lift": 3.7764
+  },
+  {
+    "Antecedent": "Insectifuges + Tentes",
+    "Consequent": "Accessoires de golf",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.42105,
+    "Rule_Confidence%": 28.4,
+    "Rule_Lift": 3.77622
+  },
+  {
+    "Antecedent": "Insectifuges + Sacs de couchage",
+    "Consequent": "Fers",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.63158,
+    "Rule_Confidence%": 30.4,
+    "Rule_Lift": 3.77419
+  },
+  {
+    "Antecedent": "Tentes + Lampes",
+    "Consequent": "Fers droits",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.05263,
+    "Rule_Confidence%": 22.8,
+    "Rule_Lift": 3.76812
+  },
+  {
+    "Antecedent": "Sacs de couchage + Lampes",
+    "Consequent": "Matériel de premiers soins",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 3.94737,
+    "Rule_Confidence%": 42.6,
+    "Rule_Lift": 3.76586
+  },
+  {
+    "Antecedent": "Sacs de couchage + Ustensiles de cuisine",
+    "Consequent": "Fers droits",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2,
+    "Rule_Confidence%": 22.8,
+    "Rule_Lift": 3.75944
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Sacs de couchage + Ustensiles de cuisine",
+    "Consequent": "Outils",
+    "Target_Product_Line": "Matériel de montagne",
+    "Relative_ItemSet_Support%": 0.63158,
+    "Rule_Confidence%": 12.6,
+    "Rule_Lift": 3.75
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Tentes",
+    "Consequent": "Lampes",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.57895,
+    "Rule_Confidence%": 70.8,
+    "Rule_Lift": 3.74884
+  },
+  {
+    "Antecedent": "Insectifuges + Sacs de couchage",
+    "Consequent": "Ustensiles de cuisine",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.52632,
+    "Rule_Confidence%": 65.7,
+    "Rule_Lift": 3.74787
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Lampes",
+    "Consequent": "Accessoires de golf",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.73684,
+    "Rule_Confidence%": 28.2,
+    "Rule_Lift": 3.74753
+  },
+  {
+    "Antecedent": "Tentes + Sacs de couchage + Ustensiles de cuisine",
+    "Consequent": "Écrans solaires",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 2.42105,
+    "Rule_Confidence%": 42.2,
+    "Rule_Lift": 3.74689
+  },
+  {
+    "Antecedent": "Insectifuges + Ustensiles de cuisine",
+    "Consequent": "Tentes",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.26316,
+    "Rule_Confidence%": 53.9,
+    "Rule_Lift": 3.7385
+  },
+  {
+    "Antecedent": "Insectifuges + Sacs de couchage",
+    "Consequent": "Lampes",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.78947,
+    "Rule_Confidence%": 70.6,
+    "Rule_Lift": 3.73587
+  },
+  {
+    "Antecedent": "Insectifuges + Tentes",
+    "Consequent": "Ustensiles de cuisine",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.26316,
+    "Rule_Confidence%": 65.3,
+    "Rule_Lift": 3.72372
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Sacs de couchage + Lampes",
+    "Consequent": "Écrans solaires",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 2.31579,
+    "Rule_Confidence%": 41.9,
+    "Rule_Lift": 3.72052
+  },
+  {
+    "Antecedent": "Écrans solaires + Lampes",
+    "Consequent": "Fers",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.68421,
+    "Rule_Confidence%": 29.9,
+    "Rule_Lift": 3.71388
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Lampes",
+    "Consequent": "Accessoires de golf",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.36842,
+    "Rule_Confidence%": 27.8,
+    "Rule_Lift": 3.69075
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Sacs de couchage",
+    "Consequent": "Outils",
+    "Target_Product_Line": "Matériel de montagne",
+    "Relative_ItemSet_Support%": 0.89474,
+    "Rule_Confidence%": 12.4,
+    "Rule_Lift": 3.68385
+  },
+  {
+    "Antecedent": "Insectifuges + Lampes",
+    "Consequent": "Tentes",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.57895,
+    "Rule_Confidence%": 53.1,
+    "Rule_Lift": 3.68385
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Tentes",
+    "Consequent": "Outils",
+    "Target_Product_Line": "Matériel de montagne",
+    "Relative_ItemSet_Support%": 0.78947,
+    "Rule_Confidence%": 12.4,
+    "Rule_Lift": 3.68027
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Sacs de couchage + Lampes",
+    "Consequent": "Outils",
+    "Target_Product_Line": "Matériel de montagne",
+    "Relative_ItemSet_Support%": 0.68421,
+    "Rule_Confidence%": 12.4,
+    "Rule_Lift": 3.6756
+  },
+  {
+    "Antecedent": "Ustensiles de cuisine + Lampes",
+    "Consequent": "Matériel de premiers soins",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 4.78947,
+    "Rule_Confidence%": 41.6,
+    "Rule_Lift": 3.67208
+  },
+  {
+    "Antecedent": "Insectifuges + Ustensiles de cuisine",
+    "Consequent": "Fers",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.78947,
+    "Rule_Confidence%": 29.6,
+    "Rule_Lift": 3.6715
+  },
+  {
+    "Antecedent": "Tentes + Lampes",
+    "Consequent": "Accessoires de golf",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.47368,
+    "Rule_Confidence%": 27.5,
+    "Rule_Lift": 3.6519
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Ustensiles de cuisine",
+    "Consequent": "Matériel de premiers soins",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 3.05263,
+    "Rule_Confidence%": 41.1,
+    "Rule_Lift": 3.63516
+  },
+  {
+    "Antecedent": "Tentes + Lampes",
+    "Consequent": "Fers",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.63158,
+    "Rule_Confidence%": 29.2,
+    "Rule_Lift": 3.63108
+  },
+  {
+    "Antecedent": "Tentes + Sacs de couchage",
+    "Consequent": "Fers",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.47368,
+    "Rule_Confidence%": 29.2,
+    "Rule_Lift": 3.62522
+  },
+  {
+    "Antecedent": "Sacs de couchage + Ustensiles de cuisine + Lampes",
+    "Consequent": "Insectifuges",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 3,
+    "Rule_Confidence%": 43.8,
+    "Rule_Lift": 3.62207
+  },
+  {
+    "Antecedent": "Sacs de couchage + Ustensiles de cuisine",
+    "Consequent": "Écrans solaires",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 3.57895,
+    "Rule_Confidence%": 40.7,
+    "Rule_Lift": 3.6152
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Ustensiles de cuisine + Lampes",
+    "Consequent": "Insectifuges",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 2.57895,
+    "Rule_Confidence%": 43.7,
+    "Rule_Lift": 3.61413
+  },
+  {
+    "Antecedent": "Insectifuges + Tentes",
+    "Consequent": "Sacs à dos et autres contenants",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 2.31579,
+    "Rule_Confidence%": 46.3,
+    "Rule_Lift": 3.60656
+  },
+  {
+    "Antecedent": "Écrans solaires + Ustensiles de cuisine",
+    "Consequent": "Sacs à dos et autres contenants",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 2.63158,
+    "Rule_Confidence%": 46.3,
+    "Rule_Lift": 3.60504
+  },
+  {
+    "Antecedent": "Tentes + Lampes",
+    "Consequent": "Bois",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.42105,
+    "Rule_Confidence%": 26.9,
+    "Rule_Lift": 3.59937
+  },
+  {
+    "Antecedent": "Tentes + Sacs de couchage + Lampes",
+    "Consequent": "Écrans solaires",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 2.47368,
+    "Rule_Confidence%": 40.5,
+    "Rule_Lift": 3.59733
+  },
+  {
+    "Antecedent": "Insectifuges + Lampes",
+    "Consequent": "Sacs à dos et autres contenants",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.10526,
+    "Rule_Confidence%": 46.1,
+    "Rule_Lift": 3.58927
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Tentes",
+    "Consequent": "Matériel de sécurité",
+    "Target_Product_Line": "Matériel de montagne",
+    "Relative_ItemSet_Support%": 0.68421,
+    "Rule_Confidence%": 10.7,
+    "Rule_Lift": 3.58127
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Sacs de couchage + Ustensiles de cuisine",
+    "Consequent": "Insectifuges",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 2.15789,
+    "Rule_Confidence%": 43.2,
+    "Rule_Lift": 3.56522
+  },
+  {
+    "Antecedent": "Tentes + Ustensiles de cuisine + Lampes",
+    "Consequent": "Insectifuges",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 2.78947,
+    "Rule_Confidence%": 43.1,
+    "Rule_Lift": 3.55956
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Sacs de couchage + Ustensiles de cuisine",
+    "Consequent": "Écrans solaires",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 2,
+    "Rule_Confidence%": 40,
+    "Rule_Lift": 3.5514
+  },
+  {
+    "Antecedent": "Tentes + Sacs de couchage",
+    "Consequent": "Accessoires de golf",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.26316,
+    "Rule_Confidence%": 26.7,
+    "Rule_Lift": 3.54863
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Sacs de couchage",
+    "Consequent": "Matériel de premiers soins",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 2.89474,
+    "Rule_Confidence%": 40.1,
+    "Rule_Lift": 3.54778
+  },
+  {
+    "Antecedent": "Ustensiles de cuisine + Lampes",
+    "Consequent": "Bois",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 3.05263,
+    "Rule_Confidence%": 26.5,
+    "Rule_Lift": 3.54364
+  },
+  {
+    "Antecedent": "Tentes + Sacs de couchage + Ustensiles de cuisine",
+    "Consequent": "Outils",
+    "Target_Product_Line": "Matériel de montagne",
+    "Relative_ItemSet_Support%": 0.68421,
+    "Rule_Confidence%": 11.9,
+    "Rule_Lift": 3.54071
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Insectifuges",
+    "Consequent": "Fers droits",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.57895,
+    "Rule_Confidence%": 21.4,
+    "Rule_Lift": 3.54037
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Sacs de couchage + Lampes",
+    "Consequent": "Insectifuges",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 2.36842,
+    "Rule_Confidence%": 42.9,
+    "Rule_Lift": 3.54037
+  },
+  {
+    "Antecedent": "Tentes + Ustensiles de cuisine + Lampes",
+    "Consequent": "Écrans solaires",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 2.57895,
+    "Rule_Confidence%": 39.8,
+    "Rule_Lift": 3.53697
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Insectifuges",
+    "Consequent": "Bois",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.94737,
+    "Rule_Confidence%": 26.4,
+    "Rule_Lift": 3.53622
+  },
+  {
+    "Antecedent": "Sacs de couchage + Ustensiles de cuisine",
+    "Consequent": "Bois",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.31579,
+    "Rule_Confidence%": 26.3,
+    "Rule_Lift": 3.52534
+  },
+  {
+    "Antecedent": "Tentes + Ustensiles de cuisine",
+    "Consequent": "Bois",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.42105,
+    "Rule_Confidence%": 26.3,
+    "Rule_Lift": 3.5171
+  },
+  {
+    "Antecedent": "Écrans solaires + Matériel de premiers soins",
+    "Consequent": "Sacs de couchage",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.73684,
+    "Rule_Confidence%": 51.8,
+    "Rule_Lift": 3.51668
+  },
+  {
+    "Antecedent": "Tentes + Lampes",
+    "Consequent": "Matériel de premiers soins",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 3.57895,
+    "Rule_Confidence%": 39.8,
+    "Rule_Lift": 3.51421
+  },
+  {
+    "Antecedent": "Ustensiles de cuisine + Lampes",
+    "Consequent": "Insectifuges",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 4.89474,
+    "Rule_Confidence%": 42.5,
+    "Rule_Lift": 3.50804
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Tentes",
+    "Consequent": "Matériel de premiers soins",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 2.52632,
+    "Rule_Confidence%": 39.7,
+    "Rule_Lift": 3.50567
+  },
+  {
+    "Antecedent": "Sacs de couchage + Ustensiles de cuisine",
+    "Consequent": "Fers",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.47368,
+    "Rule_Confidence%": 28.1,
+    "Rule_Lift": 3.49497
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Lampes",
+    "Consequent": "Matériel de premiers soins",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 3.36842,
+    "Rule_Confidence%": 39.5,
+    "Rule_Lift": 3.49124
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Ustensiles de cuisine + Lampes",
+    "Consequent": "Écrans solaires",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 2.31579,
+    "Rule_Confidence%": 39.3,
+    "Rule_Lift": 3.48798
+  },
+  {
+    "Antecedent": "Sacs de couchage + Lampes",
+    "Consequent": "Écrans solaires",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 3.63158,
+    "Rule_Confidence%": 39.2,
+    "Rule_Lift": 3.48078
+  },
+  {
+    "Antecedent": "Tentes + Sacs de couchage",
+    "Consequent": "Écrans solaires",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 3.31579,
+    "Rule_Confidence%": 39.1,
+    "Rule_Lift": 3.4742
+  },
+  {
+    "Antecedent": "Ustensiles de cuisine + Lampes",
+    "Consequent": "Fers droits",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.42105,
+    "Rule_Confidence%": 21,
+    "Rule_Lift": 3.47032
+  },
+  {
+    "Antecedent": "Écrans solaires + Ustensiles de cuisine",
+    "Consequent": "Fers",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.57895,
+    "Rule_Confidence%": 27.8,
+    "Rule_Lift": 3.44953
+  },
+  {
+    "Antecedent": "Sacs de couchage + Lampes",
+    "Consequent": "Bois",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.36842,
+    "Rule_Confidence%": 25.6,
+    "Rule_Lift": 3.42109
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Sacs de couchage + Ustensiles de cuisine",
+    "Consequent": "Accessoires d'escalade",
+    "Target_Product_Line": "Matériel de montagne",
+    "Relative_ItemSet_Support%": 0.68421,
+    "Rule_Confidence%": 13.7,
+    "Rule_Lift": 3.42105
+  },
+  {
+    "Antecedent": "Bois",
+    "Consequent": "Sacs à dos et autres contenants",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.26316,
+    "Rule_Confidence%": 43.7,
+    "Rule_Lift": 3.39991
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants",
+    "Consequent": "Bois",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 3.26316,
+    "Rule_Confidence%": 25.4,
+    "Rule_Lift": 3.39991
+  },
+  {
+    "Antecedent": "Insectifuges + Lampes",
+    "Consequent": "Fers",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.84211,
+    "Rule_Confidence%": 27.3,
+    "Rule_Lift": 3.39563
+  },
+  {
+    "Antecedent": "Écrans solaires + Insectifuges",
+    "Consequent": "Bois",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.78947,
+    "Rule_Confidence%": 25.4,
+    "Rule_Lift": 3.395
+  },
+  {
+    "Antecedent": "Sacs de couchage + Lampes",
+    "Consequent": "Fers",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.52632,
+    "Rule_Confidence%": 27.3,
+    "Rule_Lift": 3.38681
+  },
+  {
+    "Antecedent": "Sacs de couchage + Lampes",
+    "Consequent": "Insectifuges",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 3.78947,
+    "Rule_Confidence%": 40.9,
+    "Rule_Lift": 3.37945
+  },
+  {
+    "Antecedent": "Écrans solaires + Matériel de premiers soins",
+    "Consequent": "Tentes",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.47368,
+    "Rule_Confidence%": 48.2,
+    "Rule_Lift": 3.34061
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Ustensiles de cuisine",
+    "Consequent": "Insectifuges",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 3,
+    "Rule_Confidence%": 40.4,
+    "Rule_Lift": 3.3395
+  },
+  {
+    "Antecedent": "Tentes + Sacs de couchage + Lampes",
+    "Consequent": "Outils",
+    "Target_Product_Line": "Matériel de montagne",
+    "Relative_ItemSet_Support%": 0.68421,
+    "Rule_Confidence%": 11.2,
+    "Rule_Lift": 3.32705
+  },
+  {
+    "Antecedent": "Tentes + Sacs de couchage",
+    "Consequent": "Bois",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.10526,
+    "Rule_Confidence%": 24.8,
+    "Rule_Lift": 3.32429
+  },
+  {
+    "Antecedent": "Fers droits",
+    "Consequent": "Écrans solaires",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 2.26316,
+    "Rule_Confidence%": 37.4,
+    "Rule_Lift": 3.31979
+  },
+  {
+    "Antecedent": "Écrans solaires",
+    "Consequent": "Fers droits",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.26316,
+    "Rule_Confidence%": 20.1,
+    "Rule_Lift": 3.31979
+  },
+  {
+    "Antecedent": "Sacs de couchage + Ustensiles de cuisine",
+    "Consequent": "Insectifuges",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 3.52632,
+    "Rule_Confidence%": 40.1,
+    "Rule_Lift": 3.31424
+  },
+  {
+    "Antecedent": "Écrans solaires + Matériel de premiers soins + Insectifuges",
+    "Consequent": "Bois",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.36842,
+    "Rule_Confidence%": 24.8,
+    "Rule_Lift": 3.31321
+  },
+  {
+    "Antecedent": "Fers",
+    "Consequent": "Sacs à dos et autres contenants",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.42105,
+    "Rule_Confidence%": 42.5,
+    "Rule_Lift": 3.30815
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants",
+    "Consequent": "Fers",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 3.42105,
+    "Rule_Confidence%": 26.6,
+    "Rule_Lift": 3.30815
+  },
+  {
+    "Antecedent": "Écrans solaires + Matériel de premiers soins + Insectifuges",
+    "Consequent": "Sacs de couchage",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 2.68421,
+    "Rule_Confidence%": 48.6,
+    "Rule_Lift": 3.29592
+  },
+  {
+    "Antecedent": "Ustensiles de cuisine + Lampes",
+    "Consequent": "Fers",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 3.05263,
+    "Rule_Confidence%": 26.5,
+    "Rule_Lift": 3.28887
+  },
+  {
+    "Antecedent": "Tentes + Lampes",
+    "Consequent": "Insectifuges",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 3.57895,
+    "Rule_Confidence%": 39.8,
+    "Rule_Lift": 3.28502
+  },
+  {
+    "Antecedent": "Ustensiles de cuisine + Lampes",
+    "Consequent": "Écrans solaires",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 4.26316,
+    "Rule_Confidence%": 37,
+    "Rule_Lift": 3.28383
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Sacs de couchage",
+    "Consequent": "Insectifuges",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 2.84211,
+    "Rule_Confidence%": 39.4,
+    "Rule_Lift": 3.25611
+  },
+  {
+    "Antecedent": "Écrans solaires + Matériel de premiers soins",
+    "Consequent": "Ustensiles de cuisine",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 4.10526,
+    "Rule_Confidence%": 56.9,
+    "Rule_Lift": 3.2485
+  },
+  {
+    "Antecedent": "Tentes + Ustensiles de cuisine",
+    "Consequent": "Écrans solaires",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 3.36842,
+    "Rule_Confidence%": 36.6,
+    "Rule_Lift": 3.247
+  },
+  {
+    "Antecedent": "Insectifuges + Ustensiles de cuisine",
+    "Consequent": "Accessoires de golf",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.47368,
+    "Rule_Confidence%": 24.3,
+    "Rule_Lift": 3.23503
+  },
+  {
+    "Antecedent": "Matériel de premiers soins",
+    "Consequent": "Sacs de couchage",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 5.36842,
+    "Rule_Confidence%": 47.4,
+    "Rule_Lift": 3.21927
+  },
+  {
+    "Antecedent": "Sacs de couchage",
+    "Consequent": "Matériel de premiers soins",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 5.36842,
+    "Rule_Confidence%": 36.4,
+    "Rule_Lift": 3.21927
+  },
+  {
+    "Antecedent": "Tentes + Lampes",
+    "Consequent": "Écrans solaires",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 3.26316,
+    "Rule_Confidence%": 36.3,
+    "Rule_Lift": 3.21911
+  },
+  {
+    "Antecedent": "Sacs de couchage + Ustensiles de cuisine + Lampes",
+    "Consequent": "Outils",
+    "Target_Product_Line": "Matériel de montagne",
+    "Relative_ItemSet_Support%": 0.73684,
+    "Rule_Confidence%": 10.8,
+    "Rule_Lift": 3.19712
+  },
+  {
+    "Antecedent": "Sacs de couchage + Ustensiles de cuisine",
+    "Consequent": "Accessoires de golf",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.10526,
+    "Rule_Confidence%": 24,
+    "Rule_Lift": 3.18245
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Insectifuges",
+    "Consequent": "Ustensiles de cuisine",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 4.10526,
+    "Rule_Confidence%": 55.7,
+    "Rule_Lift": 3.17889
+  },
+  {
+    "Antecedent": "Matériel de premiers soins",
+    "Consequent": "Ustensiles de cuisine",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 6.26316,
+    "Rule_Confidence%": 55.3,
+    "Rule_Lift": 3.15804
+  },
+  {
+    "Antecedent": "Ustensiles de cuisine",
+    "Consequent": "Matériel de premiers soins",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 6.26316,
+    "Rule_Confidence%": 35.7,
+    "Rule_Lift": 3.15804
+  },
+  {
+    "Antecedent": "Écrans solaires + Insectifuges",
+    "Consequent": "Tentes",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.21053,
+    "Rule_Confidence%": 45.5,
+    "Rule_Lift": 3.15666
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Tentes",
+    "Consequent": "Écrans solaires",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 2.26316,
+    "Rule_Confidence%": 35.5,
+    "Rule_Lift": 3.15517
+  },
+  {
+    "Antecedent": "Écrans solaires + Insectifuges",
+    "Consequent": "Fers",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.78947,
+    "Rule_Confidence%": 25.4,
+    "Rule_Lift": 3.15091
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Insectifuges",
+    "Consequent": "Sacs de couchage",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.42105,
+    "Rule_Confidence%": 46.4,
+    "Rule_Lift": 3.15051
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Ustensiles de cuisine",
+    "Consequent": "Écrans solaires",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 2.63158,
+    "Rule_Confidence%": 35.5,
+    "Rule_Lift": 3.14841
+  },
+  {
+    "Antecedent": "Tentes + Sacs de couchage + Lampes",
+    "Consequent": "Insectifuges",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 2.31579,
+    "Rule_Confidence%": 37.9,
+    "Rule_Lift": 3.13343
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Sacs de couchage",
+    "Consequent": "Écrans solaires",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 2.52632,
+    "Rule_Confidence%": 35,
+    "Rule_Lift": 3.11072
+  },
+  {
+    "Antecedent": "Écrans solaires + Lampes",
+    "Consequent": "Accessoires de golf",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.31579,
+    "Rule_Confidence%": 23.4,
+    "Rule_Lift": 3.10437
+  },
+  {
+    "Antecedent": "Écrans solaires + Matériel de premiers soins + Insectifuges",
+    "Consequent": "Tentes",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 2.47368,
+    "Rule_Confidence%": 44.8,
+    "Rule_Lift": 3.10393
+  },
+  {
+    "Antecedent": "Accessoires de golf",
+    "Consequent": "Tentes",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.36842,
+    "Rule_Confidence%": 44.8,
+    "Rule_Lift": 3.10347
+  },
+  {
+    "Antecedent": "Tentes",
+    "Consequent": "Accessoires de golf",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 3.36842,
+    "Rule_Confidence%": 23.4,
+    "Rule_Lift": 3.10347
+  },
+  {
+    "Antecedent": "Écrans solaires + Matériel de premiers soins + Insectifuges",
+    "Consequent": "Ustensiles de cuisine",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3,
+    "Rule_Confidence%": 54.3,
+    "Rule_Lift": 3.09738
+  },
+  {
+    "Antecedent": "Matériel de premiers soins",
+    "Consequent": "Tentes",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 5.05263,
+    "Rule_Confidence%": 44.7,
+    "Rule_Lift": 3.09625
+  },
+  {
+    "Antecedent": "Tentes",
+    "Consequent": "Matériel de premiers soins",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 5.05263,
+    "Rule_Confidence%": 35,
+    "Rule_Lift": 3.09625
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Sacs de couchage + Lampes",
+    "Consequent": "Accessoires d'escalade",
+    "Target_Product_Line": "Matériel de montagne",
+    "Relative_ItemSet_Support%": 0.68421,
+    "Rule_Confidence%": 12.4,
+    "Rule_Lift": 3.09524
+  },
+  {
+    "Antecedent": "Sacs de couchage + Lampes",
+    "Consequent": "Accessoires de golf",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.15789,
+    "Rule_Confidence%": 23.3,
+    "Rule_Lift": 3.0952
+  },
+  {
+    "Antecedent": "Écrans solaires + Matériel de premiers soins + Insectifuges",
+    "Consequent": "Fers",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.36842,
+    "Rule_Confidence%": 24.8,
+    "Rule_Lift": 3.07501
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Lampes",
+    "Consequent": "Écrans solaires",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 2.94737,
+    "Rule_Confidence%": 34.6,
+    "Rule_Lift": 3.06911
+  },
+  {
+    "Antecedent": "Écrans solaires + Sacs de couchage",
+    "Consequent": "Accessoires de golf",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.15789,
+    "Rule_Confidence%": 22.9,
+    "Rule_Lift": 3.04487
+  },
+  {
+    "Antecedent": "Écrans solaires",
+    "Consequent": "Sacs de couchage",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 5.05263,
+    "Rule_Confidence%": 44.9,
+    "Rule_Lift": 3.04406
+  },
+  {
+    "Antecedent": "Sacs de couchage",
+    "Consequent": "Écrans solaires",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 5.05263,
+    "Rule_Confidence%": 34.3,
+    "Rule_Lift": 3.04406
+  },
+  {
+    "Antecedent": "Écrans solaires + Insectifuges",
+    "Consequent": "Sacs de couchage",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.15789,
+    "Rule_Confidence%": 44.8,
+    "Rule_Lift": 3.03838
+  },
+  {
+    "Antecedent": "Ustensiles de cuisine + Lampes",
+    "Consequent": "Accessoires de golf",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.63158,
+    "Rule_Confidence%": 22.8,
+    "Rule_Lift": 3.0335
+  },
+  {
+    "Antecedent": "Tentes + Sacs de couchage + Ustensiles de cuisine",
+    "Consequent": "Insectifuges",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 2.10526,
+    "Rule_Confidence%": 36.7,
+    "Rule_Lift": 3.03151
+  },
+  {
+    "Antecedent": "Écrans solaires + Matériel de premiers soins",
+    "Consequent": "Bois",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.63158,
+    "Rule_Confidence%": 22.6,
+    "Rule_Lift": 3.02765
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Insectifuges",
+    "Consequent": "Tentes",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.21053,
+    "Rule_Confidence%": 43.6,
+    "Rule_Lift": 3.02138
+  },
+  {
+    "Antecedent": "Écrans solaires",
+    "Consequent": "Tentes",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 4.89474,
+    "Rule_Confidence%": 43.5,
+    "Rule_Lift": 3.01351
+  },
+  {
+    "Antecedent": "Tentes",
+    "Consequent": "Écrans solaires",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 4.89474,
+    "Rule_Confidence%": 33.9,
+    "Rule_Lift": 3.01351
+  },
+  {
+    "Antecedent": "Écrans solaires + Matériel de premiers soins",
+    "Consequent": "Sacs à dos et autres contenants",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 2.78947,
+    "Rule_Confidence%": 38.7,
+    "Rule_Lift": 3.01244
+  },
+  {
+    "Antecedent": "Insectifuges",
+    "Consequent": "Sacs de couchage",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 5.36842,
+    "Rule_Confidence%": 44.3,
+    "Rule_Lift": 3.00932
+  },
+  {
+    "Antecedent": "Sacs de couchage",
+    "Consequent": "Insectifuges",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 5.36842,
+    "Rule_Confidence%": 36.4,
+    "Rule_Lift": 3.00932
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Lampes",
+    "Consequent": "Insectifuges",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 3.10526,
+    "Rule_Confidence%": 36.4,
+    "Rule_Lift": 3.00859
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Tentes",
+    "Consequent": "Insectifuges",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 2.31579,
+    "Rule_Confidence%": 36.4,
+    "Rule_Lift": 3.00395
+  },
+  {
+    "Antecedent": "Fers droits",
+    "Consequent": "Matériel de premiers soins",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 2.05263,
+    "Rule_Confidence%": 33.9,
+    "Rule_Lift": 2.99697
+  },
+  {
+    "Antecedent": "Matériel de premiers soins",
+    "Consequent": "Fers droits",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.05263,
+    "Rule_Confidence%": 18.1,
+    "Rule_Lift": 2.99697
+  },
+  {
+    "Antecedent": "Accessoires de golf",
+    "Consequent": "Sacs à dos et autres contenants",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 2.89474,
+    "Rule_Confidence%": 38.5,
+    "Rule_Lift": 2.99496
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants",
+    "Consequent": "Accessoires de golf",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.89474,
+    "Rule_Confidence%": 22.5,
+    "Rule_Lift": 2.99496
+  },
+  {
+    "Antecedent": "Fers",
+    "Consequent": "Tentes",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.47368,
+    "Rule_Confidence%": 43.1,
+    "Rule_Lift": 2.99127
+  },
+  {
+    "Antecedent": "Tentes",
+    "Consequent": "Fers",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 3.47368,
+    "Rule_Confidence%": 24.1,
+    "Rule_Lift": 2.99127
+  },
+  {
+    "Antecedent": "Écrans solaires + Matériel de premiers soins",
+    "Consequent": "Fers",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.73684,
+    "Rule_Confidence%": 24.1,
+    "Rule_Lift": 2.99127
+  },
+  {
+    "Antecedent": "Bois",
+    "Consequent": "Insectifuges",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 2.68421,
+    "Rule_Confidence%": 35.9,
+    "Rule_Lift": 2.96693
+  },
+  {
+    "Antecedent": "Insectifuges",
+    "Consequent": "Bois",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.68421,
+    "Rule_Confidence%": 22.2,
+    "Rule_Lift": 2.96693
+  },
+  {
+    "Antecedent": "Écrans solaires + Matériel de premiers soins + Insectifuges",
+    "Consequent": "Sacs à dos et autres contenants",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 2.10526,
+    "Rule_Confidence%": 38.1,
+    "Rule_Lift": 2.96643
+  },
+  {
+    "Antecedent": "Écrans solaires + Insectifuges",
+    "Consequent": "Lampes",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.94737,
+    "Rule_Confidence%": 56,
+    "Rule_Lift": 2.96221
+  },
+  {
+    "Antecedent": "Fers droits",
+    "Consequent": "Tentes",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 2.57895,
+    "Rule_Confidence%": 42.6,
+    "Rule_Lift": 2.95462
+  },
+  {
+    "Antecedent": "Tentes",
+    "Consequent": "Fers droits",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.57895,
+    "Rule_Confidence%": 17.9,
+    "Rule_Lift": 2.95462
+  },
+  {
+    "Antecedent": "Écrans solaires + Ustensiles de cuisine",
+    "Consequent": "Accessoires de golf",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.26316,
+    "Rule_Confidence%": 22.2,
+    "Rule_Lift": 2.9526
+  },
+  {
+    "Antecedent": "Fers droits",
+    "Consequent": "Sacs de couchage",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 2.63158,
+    "Rule_Confidence%": 43.5,
+    "Rule_Lift": 2.95031
+  },
+  {
+    "Antecedent": "Sacs de couchage",
+    "Consequent": "Fers droits",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.63158,
+    "Rule_Confidence%": 17.9,
+    "Rule_Lift": 2.95031
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Insectifuges",
+    "Consequent": "Lampes",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 4.10526,
+    "Rule_Confidence%": 55.7,
+    "Rule_Lift": 2.94867
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Insectifuges",
+    "Consequent": "Sacs à dos et autres contenants",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 2.78947,
+    "Rule_Confidence%": 37.9,
+    "Rule_Lift": 2.94789
+  },
+  {
+    "Antecedent": "Insectifuges",
+    "Consequent": "Lampes",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 6.73684,
+    "Rule_Confidence%": 55.7,
+    "Rule_Lift": 2.94538
+  },
+  {
+    "Antecedent": "Lampes",
+    "Consequent": "Insectifuges",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 6.73684,
+    "Rule_Confidence%": 35.7,
+    "Rule_Lift": 2.94538
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Insectifuges",
+    "Consequent": "Fers",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.73684,
+    "Rule_Confidence%": 23.6,
+    "Rule_Lift": 2.92717
+  },
+  {
+    "Antecedent": "Tentes + Ustensiles de cuisine",
+    "Consequent": "Insectifuges",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 3.26316,
+    "Rule_Confidence%": 35.4,
+    "Rule_Lift": 2.92671
+  },
+  {
+    "Antecedent": "Bois",
+    "Consequent": "Matériel de premiers soins",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 2.47368,
+    "Rule_Confidence%": 33.1,
+    "Rule_Lift": 2.92499
+  },
+  {
+    "Antecedent": "Matériel de premiers soins",
+    "Consequent": "Bois",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.47368,
+    "Rule_Confidence%": 21.9,
+    "Rule_Lift": 2.92499
+  },
+  {
+    "Antecedent": "Tentes + Sacs de couchage",
+    "Consequent": "Insectifuges",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 3,
+    "Rule_Confidence%": 35.4,
+    "Rule_Lift": 2.92466
+  },
+  {
+    "Antecedent": "Écrans solaires + Matériel de premiers soins + Insectifuges",
+    "Consequent": "Lampes",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.05263,
+    "Rule_Confidence%": 55.2,
+    "Rule_Lift": 2.92346
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Sacs de couchage",
+    "Consequent": "Accessoires d'escalade",
+    "Target_Product_Line": "Matériel de montagne",
+    "Relative_ItemSet_Support%": 0.84211,
+    "Rule_Confidence%": 11.7,
+    "Rule_Lift": 2.91971
+  },
+  {
+    "Antecedent": "Insectifuges + Lampes",
+    "Consequent": "Accessoires de golf",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.47368,
+    "Rule_Confidence%": 21.9,
+    "Rule_Lift": 2.90647
+  },
+  {
+    "Antecedent": "Matériel de premiers soins",
+    "Consequent": "Sacs à dos et autres contenants",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 4.21053,
+    "Rule_Confidence%": 37.2,
+    "Rule_Lift": 2.89745
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants",
+    "Consequent": "Matériel de premiers soins",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 4.21053,
+    "Rule_Confidence%": 32.8,
+    "Rule_Lift": 2.89745
+  },
+  {
+    "Antecedent": "Écrans solaires + Matériel de premiers soins",
+    "Consequent": "Lampes",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.94737,
+    "Rule_Confidence%": 54.7,
+    "Rule_Lift": 2.89734
+  },
+  {
+    "Antecedent": "Matériel de premiers soins",
+    "Consequent": "Lampes",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 6.15789,
+    "Rule_Confidence%": 54.4,
+    "Rule_Lift": 2.88009
+  },
+  {
+    "Antecedent": "Lampes",
+    "Consequent": "Matériel de premiers soins",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 6.15789,
+    "Rule_Confidence%": 32.6,
+    "Rule_Lift": 2.88009
+  },
+  {
+    "Antecedent": "Écrans solaires",
+    "Consequent": "Ustensiles de cuisine",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 5.68421,
+    "Rule_Confidence%": 50.5,
+    "Rule_Lift": 2.87952
+  },
+  {
+    "Antecedent": "Ustensiles de cuisine",
+    "Consequent": "Écrans solaires",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 5.68421,
+    "Rule_Confidence%": 32.4,
+    "Rule_Lift": 2.87952
+  },
+  {
+    "Antecedent": "Insectifuges",
+    "Consequent": "Tentes",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 5,
+    "Rule_Confidence%": 41.3,
+    "Rule_Lift": 2.86417
+  },
+  {
+    "Antecedent": "Tentes",
+    "Consequent": "Insectifuges",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 5,
+    "Rule_Confidence%": 34.7,
+    "Rule_Lift": 2.86417
+  },
+  {
+    "Antecedent": "Insectifuges",
+    "Consequent": "Ustensiles de cuisine",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 6.05263,
+    "Rule_Confidence%": 50,
+    "Rule_Lift": 2.85285
+  },
+  {
+    "Antecedent": "Ustensiles de cuisine",
+    "Consequent": "Insectifuges",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 6.05263,
+    "Rule_Confidence%": 34.5,
+    "Rule_Lift": 2.85285
+  },
+  {
+    "Antecedent": "Écrans solaires + Insectifuges",
+    "Consequent": "Ustensiles de cuisine",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.52632,
+    "Rule_Confidence%": 50,
+    "Rule_Lift": 2.85285
+  },
+  {
+    "Antecedent": "Fers droits",
+    "Consequent": "Insectifuges",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 2.05263,
+    "Rule_Confidence%": 33.9,
+    "Rule_Lift": 2.80151
+  },
+  {
+    "Antecedent": "Insectifuges",
+    "Consequent": "Fers droits",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.05263,
+    "Rule_Confidence%": 17,
+    "Rule_Lift": 2.80151
+  },
+  {
+    "Antecedent": "Bois",
+    "Consequent": "Tentes",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3,
+    "Rule_Confidence%": 40.1,
+    "Rule_Lift": 2.78349
+  },
+  {
+    "Antecedent": "Tentes",
+    "Consequent": "Bois",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 3,
+    "Rule_Confidence%": 20.8,
+    "Rule_Lift": 2.78349
+  },
+  {
+    "Antecedent": "Bois",
+    "Consequent": "Ustensiles de cuisine",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.63158,
+    "Rule_Confidence%": 48.6,
+    "Rule_Lift": 2.77249
+  },
+  {
+    "Antecedent": "Ustensiles de cuisine",
+    "Consequent": "Bois",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 3.63158,
+    "Rule_Confidence%": 20.7,
+    "Rule_Lift": 2.77249
+  },
+  {
+    "Antecedent": "Fers",
+    "Consequent": "Ustensiles de cuisine",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.89474,
+    "Rule_Confidence%": 48.4,
+    "Rule_Lift": 2.75962
+  },
+  {
+    "Antecedent": "Ustensiles de cuisine",
+    "Consequent": "Fers",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 3.89474,
+    "Rule_Confidence%": 22.2,
+    "Rule_Lift": 2.75962
+  },
+  {
+    "Antecedent": "Bois",
+    "Consequent": "Écrans solaires",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 2.31579,
+    "Rule_Confidence%": 31,
+    "Rule_Lift": 2.75109
+  },
+  {
+    "Antecedent": "Écrans solaires",
+    "Consequent": "Bois",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.31579,
+    "Rule_Confidence%": 20.6,
+    "Rule_Lift": 2.75109
+  },
+  {
+    "Antecedent": "Insectifuges + Sacs de couchage",
+    "Consequent": "Accessoires de golf",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.10526,
+    "Rule_Confidence%": 20.6,
+    "Rule_Lift": 2.7355
+  },
+  {
+    "Antecedent": "Écrans solaires + Insectifuges",
+    "Consequent": "Sacs à dos et autres contenants",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 2.47368,
+    "Rule_Confidence%": 35.1,
+    "Rule_Lift": 2.73122
+  },
+  {
+    "Antecedent": "Fers droits",
+    "Consequent": "Ustensiles de cuisine",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 2.89474,
+    "Rule_Confidence%": 47.8,
+    "Rule_Lift": 2.72882
+  },
+  {
+    "Antecedent": "Ustensiles de cuisine",
+    "Consequent": "Fers droits",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.89474,
+    "Rule_Confidence%": 16.5,
+    "Rule_Lift": 2.72882
+  },
+  {
+    "Antecedent": "Accessoires de golf",
+    "Consequent": "Matériel de premiers soins",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 2.31579,
+    "Rule_Confidence%": 30.8,
+    "Rule_Lift": 2.71914
+  },
+  {
+    "Antecedent": "Matériel de premiers soins",
+    "Consequent": "Accessoires de golf",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.31579,
+    "Rule_Confidence%": 20.5,
+    "Rule_Lift": 2.71914
+  },
+  {
+    "Antecedent": "Sacs de couchage + Ustensiles de cuisine + Lampes",
+    "Consequent": "Accessoires d'escalade",
+    "Target_Product_Line": "Matériel de montagne",
+    "Relative_ItemSet_Support%": 0.73684,
+    "Rule_Confidence%": 10.8,
+    "Rule_Lift": 2.69231
+  },
+  {
+    "Antecedent": "Bois",
+    "Consequent": "Lampes",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.78947,
+    "Rule_Confidence%": 50.7,
+    "Rule_Lift": 2.68351
+  },
+  {
+    "Antecedent": "Lampes",
+    "Consequent": "Bois",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 3.78947,
+    "Rule_Confidence%": 20.1,
+    "Rule_Lift": 2.68351
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Ustensiles de cuisine + Lampes",
+    "Consequent": "Accessoires d'escalade",
+    "Target_Product_Line": "Matériel de montagne",
+    "Relative_ItemSet_Support%": 0.63158,
+    "Rule_Confidence%": 10.7,
+    "Rule_Lift": 2.67857
+  },
+  {
+    "Antecedent": "Insectifuges",
+    "Consequent": "Sacs à dos et autres contenants",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 4.15789,
+    "Rule_Confidence%": 34.3,
+    "Rule_Lift": 2.67463
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants",
+    "Consequent": "Insectifuges",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 4.15789,
+    "Rule_Confidence%": 32.4,
+    "Rule_Lift": 2.67463
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Insectifuges",
+    "Consequent": "Accessoires de golf",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.47368,
+    "Rule_Confidence%": 20,
+    "Rule_Lift": 2.65734
+  },
+  {
+    "Antecedent": "Écrans solaires",
+    "Consequent": "Lampes",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 5.63158,
+    "Rule_Confidence%": 50,
+    "Rule_Lift": 2.64624
+  },
+  {
+    "Antecedent": "Lampes",
+    "Consequent": "Écrans solaires",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 5.63158,
+    "Rule_Confidence%": 29.8,
+    "Rule_Lift": 2.64624
+  },
+  {
+    "Antecedent": "Fers",
+    "Consequent": "Insectifuges",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 2.57895,
+    "Rule_Confidence%": 32,
+    "Rule_Lift": 2.64564
+  },
+  {
+    "Antecedent": "Insectifuges",
+    "Consequent": "Fers",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.57895,
+    "Rule_Confidence%": 21.3,
+    "Rule_Lift": 2.64564
+  },
+  {
+    "Antecedent": "Fers droits",
+    "Consequent": "Lampes",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3,
+    "Rule_Confidence%": 49.6,
+    "Rule_Lift": 2.62323
+  },
+  {
+    "Antecedent": "Lampes",
+    "Consequent": "Fers droits",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 3,
+    "Rule_Confidence%": 15.9,
+    "Rule_Lift": 2.62323
+  },
+  {
+    "Antecedent": "Écrans solaires + Matériel de premiers soins",
+    "Consequent": "Accessoires de golf",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.42105,
+    "Rule_Confidence%": 19.7,
+    "Rule_Lift": 2.61855
+  },
+  {
+    "Antecedent": "Fers",
+    "Consequent": "Sacs de couchage",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.10526,
+    "Rule_Confidence%": 38.6,
+    "Rule_Lift": 2.61671
+  },
+  {
+    "Antecedent": "Sacs de couchage",
+    "Consequent": "Fers",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 3.10526,
+    "Rule_Confidence%": 21.1,
+    "Rule_Lift": 2.61671
+  },
+  {
+    "Antecedent": "Fers",
+    "Consequent": "Matériel de premiers soins",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 2.36842,
+    "Rule_Confidence%": 29.4,
+    "Rule_Lift": 2.59918
+  },
+  {
+    "Antecedent": "Matériel de premiers soins",
+    "Consequent": "Fers",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.36842,
+    "Rule_Confidence%": 20.9,
+    "Rule_Lift": 2.59918
+  },
+  {
+    "Antecedent": "Bois",
+    "Consequent": "Sacs de couchage",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 2.84211,
+    "Rule_Confidence%": 38,
+    "Rule_Lift": 2.58048
+  },
+  {
+    "Antecedent": "Sacs de couchage",
+    "Consequent": "Bois",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.84211,
+    "Rule_Confidence%": 19.3,
+    "Rule_Lift": 2.58048
+  },
+  {
+    "Antecedent": "Accessoires de golf",
+    "Consequent": "Ustensiles de cuisine",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.36842,
+    "Rule_Confidence%": 44.8,
+    "Rule_Lift": 2.5536
+  },
+  {
+    "Antecedent": "Ustensiles de cuisine",
+    "Consequent": "Accessoires de golf",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 3.36842,
+    "Rule_Confidence%": 19.2,
+    "Rule_Lift": 2.5536
+  },
+  {
+    "Antecedent": "Écrans solaires",
+    "Consequent": "Sacs à dos et autres contenants",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.68421,
+    "Rule_Confidence%": 32.7,
+    "Rule_Lift": 2.54711
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants",
+    "Consequent": "Écrans solaires",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 3.68421,
+    "Rule_Confidence%": 28.7,
+    "Rule_Lift": 2.54711
+  },
+  {
+    "Antecedent": "Tentes + Sacs de couchage + Ustensiles de cuisine",
+    "Consequent": "Accessoires d'escalade",
+    "Target_Product_Line": "Matériel de montagne",
+    "Relative_ItemSet_Support%": 0.57895,
+    "Rule_Confidence%": 10.1,
+    "Rule_Lift": 2.52294
+  },
+  {
+    "Antecedent": "Fers",
+    "Consequent": "Écrans solaires",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 2.26316,
+    "Rule_Confidence%": 28.1,
+    "Rule_Lift": 2.49527
+  },
+  {
+    "Antecedent": "Écrans solaires",
+    "Consequent": "Fers",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.26316,
+    "Rule_Confidence%": 20.1,
+    "Rule_Lift": 2.49527
+  },
+  {
+    "Antecedent": "Accessoires de golf",
+    "Consequent": "Sacs de couchage",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 2.68421,
+    "Rule_Confidence%": 35.7,
+    "Rule_Lift": 2.42008
+  },
+  {
+    "Antecedent": "Sacs de couchage",
+    "Consequent": "Accessoires de golf",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.68421,
+    "Rule_Confidence%": 18.2,
+    "Rule_Lift": 2.42008
+  },
+  {
+    "Antecedent": "Écrans solaires + Insectifuges",
+    "Consequent": "Accessoires de golf",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.26316,
+    "Rule_Confidence%": 17.9,
+    "Rule_Lift": 2.37971
+  },
+  {
+    "Antecedent": "Fers",
+    "Consequent": "Lampes",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.57895,
+    "Rule_Confidence%": 44.4,
+    "Rule_Lift": 2.35221
+  },
+  {
+    "Antecedent": "Lampes",
+    "Consequent": "Fers",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 3.57895,
+    "Rule_Confidence%": 18.9,
+    "Rule_Lift": 2.35221
+  },
+  {
+    "Antecedent": "Écrans solaires + Matériel de premiers soins + Insectifuges",
+    "Consequent": "Accessoires de golf",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 0.94737,
+    "Rule_Confidence%": 17.1,
+    "Rule_Lift": 2.27772
+  },
+  {
+    "Antecedent": "Accessoires de golf",
+    "Consequent": "Insectifuges",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 2.05263,
+    "Rule_Confidence%": 27.3,
+    "Rule_Lift": 2.25296
+  },
+  {
+    "Antecedent": "Insectifuges",
+    "Consequent": "Accessoires de golf",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 2.05263,
+    "Rule_Confidence%": 17,
+    "Rule_Lift": 2.25296
+  },
+  {
+    "Antecedent": "Accessoires de golf",
+    "Consequent": "Écrans solaires",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 1.89474,
+    "Rule_Confidence%": 25.2,
+    "Rule_Lift": 2.23515
+  },
+  {
+    "Antecedent": "Écrans solaires",
+    "Consequent": "Accessoires de golf",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.89474,
+    "Rule_Confidence%": 16.8,
+    "Rule_Lift": 2.23515
+  },
+  {
+    "Antecedent": "Écrans solaires + Ustensiles de cuisine",
+    "Consequent": "Couteaux",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.36842,
+    "Rule_Confidence%": 24.1,
+    "Rule_Lift": 2.2097
+  },
+  {
+    "Antecedent": "Écrans solaires + Lampes",
+    "Consequent": "Couteaux",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.31579,
+    "Rule_Confidence%": 23.4,
+    "Rule_Lift": 2.14457
+  },
+  {
+    "Antecedent": "Accessoires de golf",
+    "Consequent": "Lampes",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3,
+    "Rule_Confidence%": 39.9,
+    "Rule_Lift": 2.10959
+  },
+  {
+    "Antecedent": "Lampes",
+    "Consequent": "Accessoires de golf",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 3,
+    "Rule_Confidence%": 15.9,
+    "Rule_Lift": 2.10959
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Sacs de couchage + Lampes",
+    "Consequent": "Jumelles",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.78947,
+    "Rule_Confidence%": 32.4,
+    "Rule_Lift": 2.03721
+  },
+  {
+    "Antecedent": "Tentes + Sacs de couchage + Ustensiles de cuisine",
+    "Consequent": "Couteaux",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.26316,
+    "Rule_Confidence%": 22,
+    "Rule_Lift": 2.02101
+  },
+  {
+    "Antecedent": "Insectifuges + Sacs de couchage",
+    "Consequent": "Jumelles",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.68421,
+    "Rule_Confidence%": 31.4,
+    "Rule_Lift": 1.97377
+  },
+  {
+    "Antecedent": "Tentes + Ustensiles de cuisine + Lampes",
+    "Consequent": "Couteaux",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.36842,
+    "Rule_Confidence%": 21.1,
+    "Rule_Lift": 1.94022
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Sacs de couchage + Ustensiles de cuisine",
+    "Consequent": "Couteaux",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.05263,
+    "Rule_Confidence%": 21.1,
+    "Rule_Lift": 1.93237
+  },
+  {
+    "Antecedent": "Insectifuges + Tentes",
+    "Consequent": "Jumelles",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.52632,
+    "Rule_Confidence%": 30.5,
+    "Rule_Lift": 1.92053
+  },
+  {
+    "Antecedent": "Insectifuges + Ustensiles de cuisine",
+    "Consequent": "Couteaux",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.26316,
+    "Rule_Confidence%": 20.9,
+    "Rule_Lift": 1.91556
+  },
+  {
+    "Antecedent": "Sacs de couchage + Ustensiles de cuisine + Lampes",
+    "Consequent": "Couteaux",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.42105,
+    "Rule_Confidence%": 20.8,
+    "Rule_Lift": 1.90635
+  },
+  {
+    "Antecedent": "Tentes + Sacs de couchage + Lampes",
+    "Consequent": "Jumelles",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.84211,
+    "Rule_Confidence%": 30.2,
+    "Rule_Lift": 1.89826
+  },
+  {
+    "Antecedent": "Tentes + Ustensiles de cuisine",
+    "Consequent": "Couteaux",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.89474,
+    "Rule_Confidence%": 20.6,
+    "Rule_Lift": 1.8882
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Tentes",
+    "Consequent": "Jumelles",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.89474,
+    "Rule_Confidence%": 29.8,
+    "Rule_Lift": 1.87182
+  },
+  {
+    "Antecedent": "Insectifuges + Ustensiles de cuisine",
+    "Consequent": "Jumelles",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.78947,
+    "Rule_Confidence%": 29.6,
+    "Rule_Lift": 1.86006
+  },
+  {
+    "Antecedent": "Écrans solaires + Lampes",
+    "Consequent": "Jumelles",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.63158,
+    "Rule_Confidence%": 29,
+    "Rule_Lift": 1.82274
+  },
+  {
+    "Antecedent": "Tentes + Ustensiles de cuisine + Lampes",
+    "Consequent": "Jumelles",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.84211,
+    "Rule_Confidence%": 28.5,
+    "Rule_Lift": 1.79023
+  },
+  {
+    "Antecedent": "Tentes + Sacs de couchage + Ustensiles de cuisine",
+    "Consequent": "Jumelles",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.63158,
+    "Rule_Confidence%": 28.4,
+    "Rule_Lift": 1.78929
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Sacs de couchage + Ustensiles de cuisine",
+    "Consequent": "Jumelles",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.42105,
+    "Rule_Confidence%": 28.4,
+    "Rule_Lift": 1.78808
+  },
+  {
+    "Antecedent": "Écrans solaires + Insectifuges",
+    "Consequent": "Couteaux",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.36842,
+    "Rule_Confidence%": 19.4,
+    "Rule_Lift": 1.78095
+  },
+  {
+    "Antecedent": "Sacs de couchage + Ustensiles de cuisine",
+    "Consequent": "Couteaux",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.68421,
+    "Rule_Confidence%": 19.2,
+    "Rule_Lift": 1.7588
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Ustensiles de cuisine",
+    "Consequent": "Jumelles",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.73684,
+    "Rule_Confidence%": 27.7,
+    "Rule_Lift": 1.74467
+  },
+  {
+    "Antecedent": "Insectifuges + Tentes",
+    "Consequent": "Couteaux",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 0.94737,
+    "Rule_Confidence%": 18.9,
+    "Rule_Lift": 1.73913
+  },
+  {
+    "Antecedent": "Écrans solaires + Insectifuges",
+    "Consequent": "Jumelles",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.94737,
+    "Rule_Confidence%": 27.6,
+    "Rule_Lift": 1.73718
+  },
+  {
+    "Antecedent": "Écrans solaires + Sacs de couchage",
+    "Consequent": "Couteaux",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 0.94737,
+    "Rule_Confidence%": 18.8,
+    "Rule_Lift": 1.72101
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Ustensiles de cuisine + Lampes",
+    "Consequent": "Couteaux",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.10526,
+    "Rule_Confidence%": 18.8,
+    "Rule_Lift": 1.72101
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Tentes",
+    "Consequent": "Jumelles",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.36842,
+    "Rule_Confidence%": 27.1,
+    "Rule_Lift": 1.70392
+  },
+  {
+    "Antecedent": "Sacs de couchage + Ustensiles de cuisine + Lampes",
+    "Consequent": "Jumelles",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.84211,
+    "Rule_Confidence%": 26.9,
+    "Rule_Lift": 1.69384
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Ustensiles de cuisine + Lampes",
+    "Consequent": "Jumelles",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.57895,
+    "Rule_Confidence%": 26.8,
+    "Rule_Lift": 1.68519
+  },
+  {
+    "Antecedent": "Insectifuges + Lampes",
+    "Consequent": "Jumelles",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.78947,
+    "Rule_Confidence%": 26.6,
+    "Rule_Lift": 1.67115
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Lampes",
+    "Consequent": "Jumelles",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.63158,
+    "Rule_Confidence%": 26.5,
+    "Rule_Lift": 1.66695
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Sacs de couchage + Lampes",
+    "Consequent": "Couteaux",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1,
+    "Rule_Confidence%": 18.1,
+    "Rule_Lift": 1.66092
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Sacs de couchage",
+    "Consequent": "Jumelles",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.89474,
+    "Rule_Confidence%": 26.3,
+    "Rule_Lift": 1.65321
+  },
+  {
+    "Antecedent": "Insectifuges + Lampes",
+    "Consequent": "Couteaux",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.21053,
+    "Rule_Confidence%": 18,
+    "Rule_Lift": 1.64931
+  },
+  {
+    "Antecedent": "Écrans solaires + Sacs de couchage",
+    "Consequent": "Jumelles",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.31579,
+    "Rule_Confidence%": 26,
+    "Rule_Lift": 1.63838
+  },
+  {
+    "Antecedent": "Écrans solaires + Ustensiles de cuisine",
+    "Consequent": "Jumelles",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.47368,
+    "Rule_Confidence%": 25.9,
+    "Rule_Lift": 1.6311
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Lampes",
+    "Consequent": "Jumelles",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 2.21053,
+    "Rule_Confidence%": 25.9,
+    "Rule_Lift": 1.6311
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Ustensiles de cuisine",
+    "Consequent": "Couteaux",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.10526,
+    "Rule_Confidence%": 17.6,
+    "Rule_Lift": 1.61978
+  },
+  {
+    "Antecedent": "Écrans solaires + Matériel de premiers soins + Insectifuges",
+    "Consequent": "Jumelles",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.42105,
+    "Rule_Confidence%": 25.7,
+    "Rule_Lift": 1.61779
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Sacs de couchage",
+    "Consequent": "Jumelles",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.36842,
+    "Rule_Confidence%": 25.5,
+    "Rule_Lift": 1.60369
+  },
+  {
+    "Antecedent": "Tentes + Sacs de couchage",
+    "Consequent": "Jumelles",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 2.15789,
+    "Rule_Confidence%": 25.5,
+    "Rule_Lift": 1.60216
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Tentes",
+    "Consequent": "Couteaux",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.10526,
+    "Rule_Confidence%": 17.4,
+    "Rule_Lift": 1.59301
+  },
+  {
+    "Antecedent": "Écrans solaires + Matériel de premiers soins + Insectifuges",
+    "Consequent": "Couteaux",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 0.94737,
+    "Rule_Confidence%": 17.1,
+    "Rule_Lift": 1.5735
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Insectifuges",
+    "Consequent": "Jumelles",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.84211,
+    "Rule_Confidence%": 25,
+    "Rule_Lift": 1.57285
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Ustensiles de cuisine",
+    "Consequent": "Couteaux",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.26316,
+    "Rule_Confidence%": 17,
+    "Rule_Lift": 1.56234
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Ustensiles de cuisine",
+    "Consequent": "Jumelles",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.84211,
+    "Rule_Confidence%": 24.8,
+    "Rule_Lift": 1.56169
+  },
+  {
+    "Antecedent": "Tentes + Lampes",
+    "Consequent": "Couteaux",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.52632,
+    "Rule_Confidence%": 17,
+    "Rule_Lift": 1.55663
+  },
+  {
+    "Antecedent": "Ustensiles de cuisine + Lampes",
+    "Consequent": "Couteaux",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.94737,
+    "Rule_Confidence%": 16.9,
+    "Rule_Lift": 1.55075
+  },
+  {
+    "Antecedent": "Tentes + Lampes",
+    "Consequent": "Jumelles",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 2.21053,
+    "Rule_Confidence%": 24.6,
+    "Rule_Lift": 1.54525
+  },
+  {
+    "Antecedent": "Sacs de couchage + Lampes",
+    "Consequent": "Jumelles",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 2.26316,
+    "Rule_Confidence%": 24.4,
+    "Rule_Lift": 1.5371
+  },
+  {
+    "Antecedent": "Insectifuges + Sacs de couchage",
+    "Consequent": "Couteaux",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 0.89474,
+    "Rule_Confidence%": 16.7,
+    "Rule_Lift": 1.52979
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Lampes",
+    "Consequent": "Couteaux",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.42105,
+    "Rule_Confidence%": 16.7,
+    "Rule_Lift": 1.52979
+  },
+  {
+    "Antecedent": "Tentes + Sacs de couchage + Lampes",
+    "Consequent": "Couteaux",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1,
+    "Rule_Confidence%": 16.4,
+    "Rule_Lift": 1.50341
+  },
+  {
+    "Antecedent": "Couteaux",
+    "Consequent": "Écrans solaires",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 1.84211,
+    "Rule_Confidence%": 16.9,
+    "Rule_Lift": 1.5012
+  },
+  {
+    "Antecedent": "Écrans solaires",
+    "Consequent": "Couteaux",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.84211,
+    "Rule_Confidence%": 16.4,
+    "Rule_Lift": 1.5012
+  },
+  {
+    "Antecedent": "Écrans solaires",
+    "Consequent": "Jumelles",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 2.68421,
+    "Rule_Confidence%": 23.8,
+    "Rule_Lift": 1.49935
+  },
+  {
+    "Antecedent": "Jumelles",
+    "Consequent": "Écrans solaires",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 2.68421,
+    "Rule_Confidence%": 16.9,
+    "Rule_Lift": 1.49935
+  },
+  {
+    "Antecedent": "Jumelles",
+    "Consequent": "Insectifuges",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 2.84211,
+    "Rule_Confidence%": 17.9,
+    "Rule_Lift": 1.47711
+  },
+  {
+    "Antecedent": "Insectifuges",
+    "Consequent": "Jumelles",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 2.84211,
+    "Rule_Confidence%": 23.5,
+    "Rule_Lift": 1.47711
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Sacs de couchage",
+    "Consequent": "Couteaux",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.15789,
+    "Rule_Confidence%": 16.1,
+    "Rule_Lift": 1.47396
+  },
+  {
+    "Antecedent": "Sacs de couchage + Lampes",
+    "Consequent": "Couteaux",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.47368,
+    "Rule_Confidence%": 15.9,
+    "Rule_Lift": 1.46025
+  },
+  {
+    "Antecedent": "Tentes + Sacs de couchage",
+    "Consequent": "Couteaux",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.31579,
+    "Rule_Confidence%": 15.5,
+    "Rule_Lift": 1.42527
+  },
+  {
+    "Antecedent": "Écrans solaires + Matériel de premiers soins",
+    "Consequent": "Jumelles",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.63158,
+    "Rule_Confidence%": 22.6,
+    "Rule_Lift": 1.4236
+  },
+  {
+    "Antecedent": "Jumelles",
+    "Consequent": "Sacs à dos et autres contenants",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 2.89474,
+    "Rule_Confidence%": 18.2,
+    "Rule_Lift": 1.41814
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants",
+    "Consequent": "Jumelles",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 2.89474,
+    "Rule_Confidence%": 22.5,
+    "Rule_Lift": 1.41814
+  },
+  {
+    "Antecedent": "Bois",
+    "Consequent": "Jumelles",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.68421,
+    "Rule_Confidence%": 22.5,
+    "Rule_Lift": 1.41778
+  },
+  {
+    "Antecedent": "Jumelles",
+    "Consequent": "Bois",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.68421,
+    "Rule_Confidence%": 10.6,
+    "Rule_Lift": 1.41778
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Lampes",
+    "Consequent": "Couteaux",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 0.94737,
+    "Rule_Confidence%": 15.4,
+    "Rule_Lift": 1.41211
+  },
+  {
+    "Antecedent": "Couteaux",
+    "Consequent": "Tentes",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 2.21053,
+    "Rule_Confidence%": 20.3,
+    "Rule_Lift": 1.40696
+  },
+  {
+    "Antecedent": "Tentes",
+    "Consequent": "Couteaux",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 2.21053,
+    "Rule_Confidence%": 15.3,
+    "Rule_Lift": 1.40696
+  },
+  {
+    "Antecedent": "Tentes + Ustensiles de cuisine",
+    "Consequent": "Jumelles",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 2.05263,
+    "Rule_Confidence%": 22.3,
+    "Rule_Lift": 1.40208
+  },
+  {
+    "Antecedent": "Sacs de couchage + Ustensiles de cuisine",
+    "Consequent": "Jumelles",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.94737,
+    "Rule_Confidence%": 22.2,
+    "Rule_Lift": 1.3939
+  },
+  {
+    "Antecedent": "Insectifuges + Sacs de couchage",
+    "Consequent": "Matériel d'orientation",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.05263,
+    "Rule_Confidence%": 19.6,
+    "Rule_Lift": 1.36465
+  },
+  {
+    "Antecedent": "Couteaux",
+    "Consequent": "Insectifuges",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 1.78947,
+    "Rule_Confidence%": 16.4,
+    "Rule_Lift": 1.35686
+  },
+  {
+    "Antecedent": "Insectifuges",
+    "Consequent": "Couteaux",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.78947,
+    "Rule_Confidence%": 14.8,
+    "Rule_Lift": 1.35686
+  },
+  {
+    "Antecedent": "Couteaux",
+    "Consequent": "Ustensiles de cuisine",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 2.57895,
+    "Rule_Confidence%": 23.7,
+    "Rule_Lift": 1.35063
+  },
+  {
+    "Antecedent": "Ustensiles de cuisine",
+    "Consequent": "Couteaux",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 2.57895,
+    "Rule_Confidence%": 14.7,
+    "Rule_Lift": 1.35063
+  },
+  {
+    "Antecedent": "Écrans solaires + Matériel de premiers soins",
+    "Consequent": "Couteaux",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.05263,
+    "Rule_Confidence%": 14.6,
+    "Rule_Lift": 1.33996
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Tentes",
+    "Consequent": "Couteaux",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 0.73684,
+    "Rule_Confidence%": 14.6,
+    "Rule_Lift": 1.33857
+  },
+  {
+    "Antecedent": "Couteaux + Lunettes",
+    "Consequent": "Sacs à dos et autres contenants",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 1.15789,
+    "Rule_Confidence%": 17.2,
+    "Rule_Lift": 1.33837
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Insectifuges",
+    "Consequent": "Couteaux",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.05263,
+    "Rule_Confidence%": 14.3,
+    "Rule_Lift": 1.31125
+  },
+  {
+    "Antecedent": "Ustensiles de cuisine + Lampes",
+    "Consequent": "Jumelles",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 2.36842,
+    "Rule_Confidence%": 20.5,
+    "Rule_Lift": 1.29275
+  },
+  {
+    "Antecedent": "Matériel de premiers soins",
+    "Consequent": "Jumelles",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 2.31579,
+    "Rule_Confidence%": 20.5,
+    "Rule_Lift": 1.28754
+  },
+  {
+    "Antecedent": "Jumelles",
+    "Consequent": "Matériel de premiers soins",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 2.31579,
+    "Rule_Confidence%": 14.6,
+    "Rule_Lift": 1.28754
+  },
+  {
+    "Antecedent": "Couteaux",
+    "Consequent": "Sacs à dos et autres contenants",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 1.78947,
+    "Rule_Confidence%": 16.4,
+    "Rule_Lift": 1.27901
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants",
+    "Consequent": "Couteaux",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.78947,
+    "Rule_Confidence%": 13.9,
+    "Rule_Lift": 1.27901
+  },
+  {
+    "Antecedent": "Couteaux",
+    "Consequent": "Sacs de couchage",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 2.05263,
+    "Rule_Confidence%": 18.8,
+    "Rule_Lift": 1.27847
+  },
+  {
+    "Antecedent": "Sacs de couchage",
+    "Consequent": "Couteaux",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 2.05263,
+    "Rule_Confidence%": 13.9,
+    "Rule_Lift": 1.27847
+  },
+  {
+    "Antecedent": "Fers",
+    "Consequent": "Jumelles",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.63158,
+    "Rule_Confidence%": 20.3,
+    "Rule_Lift": 1.27473
+  },
+  {
+    "Antecedent": "Jumelles",
+    "Consequent": "Fers",
+    "Target_Product_Line": "Matériel de golf",
+    "Relative_ItemSet_Support%": 1.63158,
+    "Rule_Confidence%": 10.3,
+    "Rule_Lift": 1.27473
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Sacs de couchage",
+    "Consequent": "Couteaux",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 0.73684,
+    "Rule_Confidence%": 13.7,
+    "Rule_Lift": 1.25983
+  },
+  {
+    "Antecedent": "Couteaux",
+    "Consequent": "Lampes",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 2.57895,
+    "Rule_Confidence%": 23.7,
+    "Rule_Lift": 1.25281
+  },
+  {
+    "Antecedent": "Lampes",
+    "Consequent": "Couteaux",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 2.57895,
+    "Rule_Confidence%": 13.6,
+    "Rule_Lift": 1.25281
+  },
+  {
+    "Antecedent": "Jumelles",
+    "Consequent": "Tentes",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 2.84211,
+    "Rule_Confidence%": 17.9,
+    "Rule_Lift": 1.23991
+  },
+  {
+    "Antecedent": "Tentes",
+    "Consequent": "Jumelles",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 2.84211,
+    "Rule_Confidence%": 19.7,
+    "Rule_Lift": 1.23991
+  },
+  {
+    "Antecedent": "Accessoires de golf",
+    "Consequent": "Jumelles",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.47368,
+    "Rule_Confidence%": 19.6,
+    "Rule_Lift": 1.23188
+  },
+  {
+    "Antecedent": "Jumelles",
+    "Consequent": "Sacs de couchage",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 2.84211,
+    "Rule_Confidence%": 17.9,
+    "Rule_Lift": 1.21334
+  },
+  {
+    "Antecedent": "Sacs de couchage",
+    "Consequent": "Jumelles",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 2.84211,
+    "Rule_Confidence%": 19.3,
+    "Rule_Lift": 1.21334
+  },
+  {
+    "Antecedent": "Fers droits",
+    "Consequent": "Jumelles",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.15789,
+    "Rule_Confidence%": 19.1,
+    "Rule_Lift": 1.20357
+  },
+  {
+    "Antecedent": "Couteaux",
+    "Consequent": "Matériel de premiers soins",
+    "Target_Product_Line": "Articles de protection",
+    "Relative_ItemSet_Support%": 1.42105,
+    "Rule_Confidence%": 13,
+    "Rule_Lift": 1.15268
+  },
+  {
+    "Antecedent": "Matériel de premiers soins",
+    "Consequent": "Couteaux",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 1.42105,
+    "Rule_Confidence%": 12.6,
+    "Rule_Lift": 1.15268
+  },
+  {
+    "Antecedent": "Fers droits",
+    "Consequent": "Couteaux",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 0.73684,
+    "Rule_Confidence%": 12.2,
+    "Rule_Lift": 1.11741
+  },
+  {
+    "Antecedent": "Bois",
+    "Consequent": "Couteaux",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 0.89474,
+    "Rule_Confidence%": 12,
+    "Rule_Lift": 1.09886
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Sacs de couchage",
+    "Consequent": "Matériel d'orientation",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 0.84211,
+    "Rule_Confidence%": 15.7,
+    "Rule_Lift": 1.09172
+  },
+  {
+    "Antecedent": "Accessoires de golf",
+    "Consequent": "Couteaux",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 0.89474,
+    "Rule_Confidence%": 11.9,
+    "Rule_Lift": 1.09118
+  },
+  {
+    "Antecedent": "Jumelles",
+    "Consequent": "Lampes",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 3.15789,
+    "Rule_Confidence%": 19.9,
+    "Rule_Lift": 1.05149
+  },
+  {
+    "Antecedent": "Lampes",
+    "Consequent": "Jumelles",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 3.15789,
+    "Rule_Confidence%": 16.7,
+    "Rule_Lift": 1.05149
+  },
+  {
+    "Antecedent": "Insectifuges + Tentes",
+    "Consequent": "Matériel d'orientation",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 0.73684,
+    "Rule_Confidence%": 14.7,
+    "Rule_Lift": 1.02564
+  },
+  {
+    "Antecedent": "Sacs à dos et autres contenants + Sacs de couchage + Ustensiles de cuisine",
+    "Consequent": "Matériel d'orientation",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 0.73684,
+    "Rule_Confidence%": 14.7,
+    "Rule_Lift": 1.02564
+  },
+  {
+    "Antecedent": "Fers",
+    "Consequent": "Couteaux",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 0.89474,
+    "Rule_Confidence%": 11.1,
+    "Rule_Lift": 1.01986
+  },
+  {
+    "Antecedent": "Matériel de premiers soins + Lampes",
+    "Consequent": "Matériel d'orientation",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 0.89474,
+    "Rule_Confidence%": 14.5,
+    "Rule_Lift": 1.01124
+  },
+  {
+    "Antecedent": "Jumelles",
+    "Consequent": "Ustensiles de cuisine",
+    "Target_Product_Line": "Matériel de camping",
+    "Relative_ItemSet_Support%": 2.78947,
+    "Rule_Confidence%": 17.5,
+    "Rule_Lift": 1.00133
+  },
+  {
+    "Antecedent": "Ustensiles de cuisine",
+    "Consequent": "Jumelles",
+    "Target_Product_Line": "Accessoires personnels",
+    "Relative_ItemSet_Support%": 2.78947,
+    "Rule_Confidence%": 15.9,
+    "Rule_Lift": 1.00133
+  }
+]
+}

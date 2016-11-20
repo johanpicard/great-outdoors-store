@@ -1,0 +1,35 @@
+	<!--start-breadcrumbs-->
+	<div class="breadcrumbs">
+		<div class="container">
+			<div class="breadcrumbs-main">
+				<ol class="breadcrumb">
+					<li><a href="" ng-click="goToHomePage()">Accueil</a></li>
+					<li class="active">{{selectedCategory}}</li>
+				</ol>
+			</div>
+		</div>
+	</div>
+	<!--end-breadcrumbs-->
+    
+	<!--start-product--> 
+	<div class="product">
+		<div class="container">
+			<div class="product-main">
+				<div class="product-one" ng-repeat="productRow in products">
+					<div class="col-md-3 product-left single-left" ng-repeat="product in productRow">
+						<div class="p-one simpleCart_shelfItem">
+								<img src="images/{{product.Image_du_produit}}" alt="" width="223" height="200" />
+								<div class="mask mask1">
+									<span ng-click="addToCart(product)">Ajouter au panier</span>
+								</div>
+							<h4>{{product.Produit}}</h4>
+							<p><a href="" ng-click="addToCart(product)"><i></i> <span class=" item_price">{{product.Prix_unitaire | number:2}}€</span></a></p>
+						</div>
+					</div>
+					<div class="clearfix"> </div>
+				</div>
+				<div class="clearfix"> </div>
+			</div>
+		</div>
+	</div>
+	<!--end-product-->

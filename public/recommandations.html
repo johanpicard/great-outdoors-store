@@ -1,0 +1,53 @@
+<!--start-ckeckout-->
+<div style="overflow:auto;height:calc(100% - 129px)">
+    <div class="container">
+        <div class="ckeckout-top">
+        <div class=" cart-items heading">
+        <h3>Produits recommandés</h3>
+        <div class="in-check" >
+            <ul class="unit-reco">
+                <li class="recomandation-sentence-header"><span>Recomandation</span></li>
+                <li class="recomandation-img-header"><span>Produit</span></li>
+                <li class="recomandation-product-header"><span> </span></li>           
+                <div class="clearfix"> </div>
+            </ul>
+            <ul class="reco-header" ng-repeat="rule in appliedRules">
+                <li class="recomandation-sentence"><span>
+                        <span class="recommandations">
+                            Les clients achetant des <strong>{{rule.Antecedent[0]}} </strong>
+                            <span ng-switch="rule.Antecedent.length">
+                                <span ng-switch-when="1" style="display:none">
+                                </span>
+                                <span ng-switch-when="2">
+                                    et des <strong>{{rule.Antecedent[1]}} </strong> 
+                                </span>
+                                <span ng-switch-when="3">
+                                    , des <strong>{{rule.Antecedent[1]}}</strong> et des <strong>{{rule.Antecedent[2]}} </strong>
+                                </span>
+                                <span ng-switch-default>
+                                    <span ng-repeat="antecedant in rule.Antecedent" ng-if="$index > 0">
+                                        , des <strong>{{antecedant}} </strong>
+                                    </span>
+                                 </span>
+                            </span>
+                            sont souvent intéressés par ce type de produit :
+                        </span>
+                 </span></li>
+                <li class="ring-in recomandation-img"><img src="images/{{rule.asoociatedProduct.Image_du_produit}}" alt="" width="160" height="155"></li>
+                <li class="ring-in recomandation-product"><span>
+                    <h4>{{rule.asoociatedProduct.Produit}}</h4>
+                    <p><span class=" item_price">{{rule.asoociatedProduct.Prix_unitaire | number:2}}€</span></p>
+                    <p style="margin: 1em;"><a href="" class="add-cart2 cart-check" ng-click="addToCartFromReco(rule.asoociatedProduct)">Ajouter au panier</a><p>
+                </span></li>
+                <div class="clearfix"></div>
+            </ul>
+        </div>
+        </div>
+        </div>
+        <div ng-show="openReco" class="recoButton-wrapper">
+            <p class="recoButton"><a href="" class="add-cart2 cart-check" ng-click="toggleReco()">Continuer mes achats</a><p>
+            <p class="recoButton"><a href="" class="add-cart2 cart-check" ng-click="goToCart()">Voir le panier</a><p>
+        <div>
+    </div>
+</div>
+<!--end-ckeckout-->
