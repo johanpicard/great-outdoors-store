@@ -19,10 +19,11 @@
 		$scope.showCart = false;
 		$scope.selectedCategory = "Accueil";
 
-		$http.get("data/products.json")                                            
+		$http.get("/getproducts")                                            
 		.success(function(data, status, headers, config) {
 		    for (var i = data.length - 1; i >= 0; i--) {
 		    	data[i].Quantite = 1;
+		    	data[i].Image_du_produit = data[i].Image_du_produit.replace(/.*\/(.*)\.jpg/,"$1\.jpg");
 		    	if ($scope.productMap[data[i].Lignes_de_produits]){/* do nothing */}
 		    	else 
 		    		$scope.productMap[data[i].Lignes_de_produits] = {};

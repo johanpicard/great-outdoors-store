@@ -1,6 +1,7 @@
-# Node.js Starter Overview
+# GreatOutdoors Store
 
-The Node.js Starter demonstrates a simple, reusable Node.js web application based on the Express framework.
+A web application based on the Express framework and AngularJS containing 
+an eCommerce website and a recommandation engine.
 
 ## Run the app locally
 
